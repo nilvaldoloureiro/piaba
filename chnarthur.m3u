@@ -1,0 +1,1827 @@
+#EXTM3U url-tvg="https://cutt.ly/epgpiaba,https://cutt.ly/epgnilvaldo,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml" x-tvg-url="https://cutt.ly/epgpiaba,https://cutt.ly/epgnilvaldo,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml" refresh="360"
+## (Arthur) 
+##--------------------------------------
+## http://pdsrv.io:80/flach58/81828249/
+##--------------------------------------
+
+##-------------
+## 11.Tv Local -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Tvaratu" tvg-name="TV ARATU" tvg-logo="https://distv.net/icones/tvaratu.png" group-title="11.Tv Local",11.TV ARATU¹
+http://pdsrv.io:80/flach58/81828249/97332
+#EXTINF:-1 tvg-id="Bra.Tvaratu" tvg-name="TV ARATU" tvg-logo="https://distv.net/icones/tvaratu.png" group-title="11.Tv Local",11.TV ARATUº
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIA FHD¹
+http://pdsrv.io:80/flach58/81828249/113837
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIA HD¹
+http://pdsrv.io:80/flach58/81828249/113835
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIA FHD²
+http://pdsrv.io:80/flach58/81828249/113836
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIA HD²
+http://pdsrv.io:80/flach58/81828249/113834
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIA SD²
+http://pdsrv.io:80/flach58/81828249/113832
+#EXTINF:-1 tvg-id="Bra.Tvbahia" tvg-name="TV BAHIA" tvg-logo="https://distv.net/icones/redebahia.png" group-title="11.Tv Local",11.TV BAHIAª
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Tvbandba" tvg-name="TV BAND BA" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.TV BAND BAª
+http://axr.life:80/096154/686531/32955
+#EXTINF:-1 tvg-id="Bra.Tvbandba" tvg-name="TV BAND BA" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.TV BAND BAª¹
+http://uva.bccdn.xyz:80/909247548285pw/98743578428pw/449
+#EXTINF:-1 tvg-id="Bra.Tvbandba" tvg-name="TV BAND BA" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.TV BAND BAª²
+http://acsc.cc:80/Mateus1379m/6112mTeS5713/72620.ts
+
+#EXTINF:-1 tvg-id="Bra.Tvitapoan" tvg-name="TV ITAPOAN" tvg-logo="https://distv.net/icones/recordbahia.png" group-title="11.Tv Local",11.TV ITAPOAN¹
+http://pdsrv.io:80/flach58/81828249/97140
+#EXTINF:-1 tvg-id="Bra.Tvitapoan" tvg-name="TV ITAPOAN" tvg-logo="https://distv.net/icones/recordbahia.png" group-title="11.Tv Local",11.TV ITAPOAN²
+http://pdsrv.io:80/flach58/81828249/97133
+#EXTINF:-1 tvg-id="Bra.Tvitapoan" tvg-name="TV ITAPOAN" tvg-logo="https://distv.net/icones/recordbahia.png" group-title="11.Tv Local",11.TV ITAPOAN³
+http://pdsrv.io:80/flach58/81828249/96593
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TVE BAHIA" tvg-logo="http://static.bldn.vip/logos/abertos/tve.png" group-title="11.Tv Local",11.TVE BAHIAº
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TVE BAIANÃO" tvg-logo="http://static.bldn.vip/logos/abertos/tve.png" group-title="11.Tv Local",11.TVE BAIANÃO¹
+http://pdsrv.io:80/flach58/81828249/110351
+
+#EXTINF:-1 tvg-id="Bra.Tvcidadeverde" tvg-name="TV CIDADE VERDE" tvg-logo="https://static.b2pteam.com/logos/sbt/pi.png" group-title="11.Tv Local",11.TV CIDADE VERDE¹
+http://pdsrv.io:80/flach58/81828249/97339
+#EXTINF:-1 tvg-id="Bra.Tvcidadeverde" tvg-name="TV CIDADE VERDE" tvg-logo="https://static.b2pteam.com/logos/sbt/pi.png" group-title="11.Tv Local",11.TV CIDADE VERDEº
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Tvclubeteresina" tvg-name="TV CLUBE TERESINA" tvg-logo="https://static.b2pteam.com/logos/globo/pi.png" group-title="11.Tv Local",11.TV CLUBE TERESINA¹
+http://pdsrv.io:80/flach58/81828249/97440
+
+## ..... 
+
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND FHD¹
+http://pdsrv.io:80/flach58/81828249/111105
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND HD¹
+http://pdsrv.io:80/flach58/81828249/111102
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND SD¹
+http://pdsrv.io:80/flach58/81828249/111103
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND FHD²
+http://pdsrv.io:80/flach58/81828249/111106
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND HD²
+http://pdsrv.io:80/flach58/81828249/111107
+#EXTINF:-1 tvg-id="Bra.Redebandsp" tvg-name="REDE BAND" tvg-logo="https://distv.net/icones/band.png" group-title="11.Tv Local",11.REDE BAND SD²
+http://pdsrv.io:80/flach58/81828249/111098
+
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO FHD¹
+http://pdsrv.io:80/flach58/81828249/113824
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO HD¹
+http://pdsrv.io:80/flach58/81828249/113820
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO SD¹
+http://pdsrv.io:80/flach58/81828249/113818
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO FHD²
+http://pdsrv.io:80/flach58/81828249/113825
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO HD²
+http://pdsrv.io:80/flach58/81828249/113821
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBO SD²
+http://pdsrv.io:80/flach58/81828249/113819
+#EXTINF:-1 tvg-id="Bra.Redeglobosp" tvg-name="REDE GLOBO" tvg-logo="https://distv.net/icones/globo.png" group-title="11.Tv Local",11.REDE GLOBOª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36071
+
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD FHD¹
+http://pdsrv.io:80/flach58/81828249/111165
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD HD¹
+http://pdsrv.io:80/flach58/81828249/111203
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD SD¹
+http://pdsrv.io:80/flach58/81828249/111164
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD FHD²
+http://pdsrv.io:80/flach58/81828249/97137
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD HD²
+http://pdsrv.io:80/flach58/81828249/97139
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORD SD²
+http://pdsrv.io:80/flach58/81828249/97149
+#EXTINF:-1 tvg-id="Bra.Rederecordsp" tvg-name="REDE RECORD" tvg-logo="https://distv.net/icones/record.png" group-title="11.Tv Local",11.REDE RECORDª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36089
+
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT FHD¹
+http://pdsrv.io:80/flach58/81828249/109627
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT HD¹
+http://pdsrv.io:80/flach58/81828249/97336
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT SD¹
+http://pdsrv.io:80/flach58/81828249/97343
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT FHD²
+http://pdsrv.io:80/flach58/81828249/97344
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT HD²
+http://pdsrv.io:80/flach58/81828249/97345
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBT SD²
+http://pdsrv.io:80/flach58/81828249/97346
+#EXTINF:-1 tvg-id="Bra.Redesbtsp" tvg-name="REDE SBT" tvg-logo="https://distv.net/icones/sbt.png" group-title="11.Tv Local",11.REDE SBTª
+http://51.159.54.153:14400/
+
+##--------------
+## 12.Tv Aberta ------------------------------------------------------------------------------------
+##--------------
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-name="JOVEM PAN" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="12.Tv Aberta",12.JOVEM PAN¹
+http://pdsrv.io:80/flach58/81828249/111271
+
+#EXTINF:-1 tvg-id="Bra.Redebrasil" tvg-name="REDE BRASIL" tvg-logo="https://distv.net/icones/redebrasil.png" group-title="12.Tv Aberta",12.REDE BRASIL¹
+http://pdsrv.io:80/flach58/81828249/111117
+
+#EXTINF:-1 tvg-id="Bra.Redetv!" tvg-name="REDETV!" tvg-logo="https://distv.net/icones/redetv.png" group-title="12.Tv Aberta",12.REDETV!¹
+http://pdsrv.io:80/flach58/81828249/111210
+
+#EXTINF:-1 tvg-id="Bra.Tvbrasil" tvg-name="TV BRASIL" tvg-logo="https://distv.net/icones/tvbrasil.png" group-title="12.Tv Aberta",12.TV BRASIL¹
+http://pdsrv.io:80/flach58/81828249/60906
+
+#EXTINF:-1 tvg-id="Bra.Tvcultura" tvg-name="TV CULTURA" tvg-logo="https://distv.net/icones/cultura.png" group-title="12.Tv Aberta",12.TV CULTURA¹
+http://pdsrv.io:80/flach58/81828249/69137
+
+#EXTINF:-1 tvg-id="Bra.Tvfutura" tvg-name="TV FUTURA" tvg-logo="https://distv.net/icones/futura.png" group-title="12.Tv Aberta",12.TV FUTURA¹
+http://pdsrv.io:80/flach58/81828249/62847
+
+#EXTINF:-1 tvg-id="Bra.Redegazeta" tvg-name="TV GAZETA" tvg-logo="https://distv.net/icones/gazeta.png" group-title="12.Tv Aberta",12.TV GAZETA¹
+http://pdsrv.io:80/flach58/81828249/110902
+
+##-------------
+## 13.Notícias ------------------------------------------------------------------------------------ 
+##-------------
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS FHD¹
+http://pdsrv.io:80/flach58/81828249/11536
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS HD¹
+http://pdsrv.io:80/flach58/81828249/111213
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS SD¹
+http://pdsrv.io:80/flach58/81828249/4399
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS FHD²
+http://pdsrv.io:80/flach58/81828249/97601
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS HD²
+http://pdsrv.io:80/flach58/81828249/97602
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWS SD²
+http://pdsrv.io:80/flach58/81828249/97603
+#EXTINF:-1 tvg-id="Bra.Bandnews" tvg-name="BAND NEWS" tvg-logo="https://distv.net/icones/bandnews.png" group-title="13.Notícias",13.BAND NEWSª
+http://cdn.connectbr.com.br/Band-News/index.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL FHD¹
+http://pdsrv.io:80/flach58/81828249/44724
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL HD¹
+http://pdsrv.io:80/flach58/81828249/44723
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL SD¹
+http://pdsrv.io:80/flach58/81828249/57528
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL FHD²
+http://pdsrv.io:80/flach58/81828249/97480
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL HD²
+http://pdsrv.io:80/flach58/81828249/97481
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASIL SD²
+http://pdsrv.io:80/flach58/81828249/97482
+#EXTINF:-1 tvg-id="Bra.Cnnbrasil" tvg-name="CNN BRASIL" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="13.Notícias",13.CNN BRASILª
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS FHD¹
+http://pdsrv.io:80/flach58/81828249/71199
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS HD¹
+http://pdsrv.io:80/flach58/81828249/7442
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS SD¹
+http://pdsrv.io:80/flach58/81828249/4432
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS FHD²
+http://pdsrv.io:80/flach58/81828249/97387
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS HD²
+http://pdsrv.io:80/flach58/81828249/97388
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWS SD²
+http://pdsrv.io:80/flach58/81828249/61138
+#EXTINF:-1 tvg-id="Bra.Globonews" tvg-name="GLOBO NEWS" tvg-logo="https://distv.net/icones/globonews.png" group-title="13.Notícias",13.GLOBO NEWSª
+http://191.37.250.169:8801/live/GloboNewsHD/720p.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="13.Notícias",13.JOVEM PAN NEWS FHD¹
+http://pdsrv.io:80/flach58/81828249/97765
+#EXTINF:-1 tvg-id="Bra.Jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="13.Notícias",13.JOVEM PAN NEWS HD¹
+http://pdsrv.io:80/flach58/81828249/97766
+#EXTINF:-1 tvg-id="Bra.Jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="13.Notícias",13.JOVEM PAN NEWS FHD²
+http://pdsrv.io:80/flach58/81828249/97281
+#EXTINF:-1 tvg-id="Bra.Jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="13.Notícias",13.JOVEM PAN NEWS HD²
+http://pdsrv.io:80/flach58/81828249/110375
+#EXTINF:-1 tvg-id="Bra.Jovempannews" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="13.Notícias",13.JOVEM PAN NEWSª
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS FHD¹
+http://pdsrv.io:80/flach58/81828249/96610
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS HD¹
+http://pdsrv.io:80/flach58/81828249/6941
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS SD¹
+http://pdsrv.io:80/flach58/81828249/30707
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS FHD²
+http://pdsrv.io:80/flach58/81828249/97143
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS HD²
+http://pdsrv.io:80/flach58/81828249/61141
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWS SD²
+http://pdsrv.io:80/flach58/81828249/97144
+#EXTINF:-1 tvg-id="Bra.Recordnews" tvg-name="RECORD NEWS" tvg-logo="https://distv.net/icones/recordnews.png" group-title="13.Notícias",13.RECORD NEWSº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+## ..... 
+
+#EXTINF:-1 tvg-id="Por.Euronews" tvg-name="EURONEWS" tvg-logo="https://distv.net/icones/euronews.png" group-title="13.Notícias",13.EURONEWS¹
+http://pdsrv.io:80/flach58/81828249/112609
+#EXTINF:-1 tvg-id="Por.Euronews" tvg-name="EURONEWS" tvg-logo="https://distv.net/icones/euronews.png" group-title="13.Notícias",13.EURONEWSº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Por.Portocanal" tvg-name="PORTO CANAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-porto-canal-813.png" group-title="13.Notícias",13.PORTO CANAL FHD¹
+http://pdsrv.io:80/flach58/81828249/112681
+#EXTINF:-1 tvg-id="Por.Portocanal" tvg-name="PORTO CANAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-porto-canal-813.png" group-title="13.Notícias",13.PORTO CANAL HD¹
+http://pdsrv.io:80/flach58/81828249/112679
+#EXTINF:-1 tvg-id="Por.Portocanal" tvg-name="PORTO CANAL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-porto-canal-813.png" group-title="13.Notícias",13.PORTO CANAL SD¹
+http://pdsrv.io:80/flach58/81828249/112680
+
+#EXTINF:-1 tvg-id="Por.Sicnoticias" tvg-name="SIC NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="13.Notícias",13.SIC NOTÍCIAS FHD¹
+http://pdsrv.io:80/flach58/81828249/112705
+#EXTINF:-1 tvg-id="Por.Sicnoticias" tvg-name="SIC NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="13.Notícias",13.SIC NOTÍCIAS HD¹
+http://pdsrv.io:80/flach58/81828249/112706
+#EXTINF:-1 tvg-id="Por.Sicnoticias" tvg-name="SIC NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="13.Notícias",13.SIC NOTÍCIAS SD¹
+http://pdsrv.io:80/flach58/81828249/112707
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV BRICS" tvg-logo="https://www.cableman.ru/sites/default/files/tvbrics.jpg" group-title="13.Notícias",13.TV BRICSª
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV BRICS" tvg-logo="https://www.cableman.ru/sites/default/files/tvbrics.jpg" group-title="13.Notícias",13.TV BRICSª²
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+
+##-------------
+## 21.Esportes -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS FHD¹
+http://pdsrv.io:80/flach58/81828249/100087
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS HD¹
+http://pdsrv.io:80/flach58/81828249/100085
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS SD¹
+http://pdsrv.io:80/flach58/81828249/100083
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS FHD²
+http://pdsrv.io:80/flach58/81828249/100088
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS HD²
+http://pdsrv.io:80/flach58/81828249/100086
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTS SD²
+http://pdsrv.io:80/flach58/81828249/100084
+#EXTINF:-1 tvg-id="Bra.Bandsports" tvg-name="BAND SPORTS" tvg-logo="https://distv.net/icones/bandsports.png" group-title="21.Esportes",21.BAND SPORTSª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35965
+
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 FHD¹
+http://pdsrv.io:80/flach58/81828249/113288
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 HD¹
+http://pdsrv.io:80/flach58/81828249/100107
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 SD¹
+http://pdsrv.io:80/flach58/81828249/100105
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 FHD²
+http://pdsrv.io:80/flach58/81828249/100145
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 HD²
+http://pdsrv.io:80/flach58/81828249/100143
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1 SD²
+http://pdsrv.io:80/flach58/81828249/100106
+#EXTINF:-1 tvg-id="Bra.Espn1" tvg-name="ESPN 1" tvg-logo="https://distv.net/icones/espn.png" group-title="21.Esportes",21.ESPN 1ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36002
+
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 FHD¹
+http://pdsrv.io:80/flach58/81828249/100102
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 HD¹
+http://pdsrv.io:80/flach58/81828249/113290
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 SD¹
+http://pdsrv.io:80/flach58/81828249/100098
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 FHD²
+http://pdsrv.io:80/flach58/81828249/100103
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 HD²
+http://pdsrv.io:80/flach58/81828249/100101
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2 SD²
+http://pdsrv.io:80/flach58/81828249/100099
+#EXTINF:-1 tvg-id="Bra.Espn2" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="21.Esportes",21.ESPN 2ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36003
+
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 FHD¹
+http://pdsrv.io:80/flach58/81828249/100151
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 HD¹
+http://pdsrv.io:80/flach58/81828249/100149
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 SD¹
+http://pdsrv.io:80/flach58/81828249/100147
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 FHD²
+http://pdsrv.io:80/flach58/81828249/100152
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 HD²
+http://pdsrv.io:80/flach58/81828249/100150
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3 SD²
+http://pdsrv.io:80/flach58/81828249/100148
+#EXTINF:-1 tvg-id="Bra.Espn3" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="21.Esportes",21.ESPN 3ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38228
+
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 FHD¹
+http://pdsrv.io:80/flach58/81828249/100165
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 HD¹
+http://pdsrv.io:80/flach58/81828249/100163
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 SD¹
+http://pdsrv.io:80/flach58/81828249/100161
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 FHD²
+http://pdsrv.io:80/flach58/81828249/100164
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 HD²
+http://pdsrv.io:80/flach58/81828249/100162
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4 SD²
+http://pdsrv.io:80/flach58/81828249/100160
+#EXTINF:-1 tvg-id="Bra.Espn4" tvg-name="ESPN 4" tvg-logo="https://distv.net/icones/espn4.png" group-title="21.Esportes",21.ESPN 4ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35963
+
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA FHD¹
+http://pdsrv.io:80/flach58/81828249/100157
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA HD¹
+http://pdsrv.io:80/flach58/81828249/100155
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA SD¹
+http://pdsrv.io:80/flach58/81828249/117931
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA FHD²
+http://pdsrv.io:80/flach58/81828249/100158
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA HD²
+http://pdsrv.io:80/flach58/81828249/100156
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRA SD²
+http://pdsrv.io:80/flach58/81828249/100154
+#EXTINF:-1 tvg-id="Bra.Espnextra" tvg-name="ESPN EXTRA" tvg-logo="https://distv.net/icones/espnextra.png" group-title="21.Esportes",21.ESPN EXTRAª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36052
+
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 FHD¹
+http://pdsrv.io:80/flach58/81828249/100174
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 HD¹
+http://pdsrv.io:80/flach58/81828249/100172
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 SD¹
+http://pdsrv.io:80/flach58/81828249/100170
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 FHD²
+http://pdsrv.io:80/flach58/81828249/100175
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 HD²
+http://pdsrv.io:80/flach58/81828249/100173
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2 SD²
+http://pdsrv.io:80/flach58/81828249/100171
+#EXTINF:-1 tvg-id="Bra.Foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="21.Esportes",21.FOX SPORTS 2ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35964
+
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF FHD¹
+http://pdsrv.io:80/flach58/81828249/9152
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF HD¹
+http://pdsrv.io:80/flach58/81828249/6947
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF SD¹
+http://pdsrv.io:80/flach58/81828249/4344
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF FHD²
+http://pdsrv.io:80/flach58/81828249/97646
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF HD²
+http://pdsrv.io:80/flach58/81828249/97647
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFF SD²
+http://pdsrv.io:80/flach58/81828249/97648
+#EXTINF:-1 tvg-id="Bra.Off" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="21.Esportes",21.OFFª
+http://dmnet.distv.net:80/dianna/123456/121
+
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 FHD¹
+http://pdsrv.io:80/flach58/81828249/100188
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 HD¹
+http://pdsrv.io:80/flach58/81828249/100185
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 SD¹
+http://pdsrv.io:80/flach58/81828249/100183
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 FHD²
+http://pdsrv.io:80/flach58/81828249/100189
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 HD²
+http://pdsrv.io:80/flach58/81828249/100187
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1 SD²
+http://pdsrv.io:80/flach58/81828249/100184
+#EXTINF:-1 tvg-id="Bra.Sportv1" tvg-name="SPORTV 1" tvg-logo="https://distv.net/icones/sportv.png" group-title="21.Esportes",21.SPORTV 1ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36025
+
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 FHD¹
+http://pdsrv.io:80/flach58/81828249/100213
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 HD¹
+http://pdsrv.io:80/flach58/81828249/100211
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 SD¹
+http://pdsrv.io:80/flach58/81828249/100209
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 FHD²
+http://pdsrv.io:80/flach58/81828249/100214
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 HD²
+http://pdsrv.io:80/flach58/81828249/100212
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2 SD²
+http://pdsrv.io:80/flach58/81828249/100210
+#EXTINF:-1 tvg-id="Bra.Sportv2" tvg-name="SPORTV 2" tvg-logo="https://distv.net/icones/sportv2.png" group-title="21.Esportes",21.SPORTV 2ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36024
+
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 FHD¹
+http://pdsrv.io:80/flach58/81828249/100220
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 HD¹
+http://pdsrv.io:80/flach58/81828249/100218
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 SD¹
+http://pdsrv.io:80/flach58/81828249/100216
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 FHD²
+http://pdsrv.io:80/flach58/81828249/100221
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 HD²
+http://pdsrv.io:80/flach58/81828249/100219
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3 SD²
+http://pdsrv.io:80/flach58/81828249/100217
+#EXTINF:-1 tvg-id="Bra.Sportv3" tvg-name="SPORTV 3" tvg-logo="https://distv.net/icones/sportv3.png" group-title="21.Esportes",21.SPORTV 3ª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35973
+
+## ..... 
+
+#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="21.Esportes",21.FUEL TVº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="TV ESPORTES" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="21.Esportes",21.TV ESPORTESº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN TURBO" tvg-logo="https://imgur.com/YTEJYrB.png" group-title="21.Esportes",21.URBAN TURBOº
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+
+##-----------------
+## 22.Esp Portugal ---------------------------------------------------------------------------------
+##-----------------
+#EXTINF:-1 tvg-id="Por.Abolatv" tvg-name="A BOLA TV" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-a-bola-tv-798.png" group-title="22.Esp Portugal",22.A BOLA TV¹
+http://pdsrv.io:80/flach58/81828249/112522
+#EXTINF:-1 tvg-id="Por.Canal11" tvg-name="CANAL 11" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-11-1787.png" group-title="22.Esp Portugal",22.CANAL 11¹
+http://pdsrv.io:80/flach58/81828249/112554
+
+#EXTINF:-1 tvg-id="Por.Elevensports1" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 1¹
+http://pdsrv.io:80/flach58/81828249/112593
+#EXTINF:-1 tvg-id="Por.Elevensports2" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 2¹
+http://pdsrv.io:80/flach58/81828249/112596
+#EXTINF:-1 tvg-id="Por.Elevensports3" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 3¹
+http://pdsrv.io:80/flach58/81828249/112600
+#EXTINF:-1 tvg-id="Por.Elevensports4" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 4¹
+http://pdsrv.io:80/flach58/81828249/112602
+#EXTINF:-1 tvg-id="Por.Elevensports5" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 5¹
+http://pdsrv.io:80/flach58/81828249/112605
+#EXTINF:-1 tvg-id="Por.Elevensports6" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://distv.net/icones/elevensports.png" group-title="22.Esp Portugal",22.ELEVEN SPORTS 6¹
+http://pdsrv.io:80/flach58/81828249/112608
+
+#EXTINF:-1 tvg-id="Por.Eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://distv.net/icones/eurosport1.png" group-title="22.Esp Portugal",22.EUROSPORT 1¹
+http://pdsrv.io:80/flach58/81828249/112612
+#EXTINF:-1 tvg-id="Por.Eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://distv.net/icones/eurosport2.png" group-title="22.Esp Portugal",22.EUROSPORT 2¹
+http://pdsrv.io:80/flach58/81828249/112613
+
+#EXTINF:-1 tvg-id="Por.Sporttv+" tvg-name="SPORT TV +" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-455.png" group-title="22.Esp Portugal",22.SPORT TV +¹
+http://pdsrv.io:80/flach58/81828249/112716
+#EXTINF:-1 tvg-id="Por.Sporttv1" tvg-name="SPORT TV 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-450.png" group-title="22.Esp Portugal",22.SPORT TV 1¹
+http://pdsrv.io:80/flach58/81828249/112717
+#EXTINF:-1 tvg-id="Por.Sporttv2" tvg-name="SPORT TV 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-451.png" group-title="22.Esp Portugal",22.SPORT TV 2¹
+http://pdsrv.io:80/flach58/81828249/112720
+#EXTINF:-1 tvg-id="Por.Sporttv3" tvg-name="SPORT TV 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-452.png" group-title="22.Esp Portugal",22.SPORT TV 3¹
+http://pdsrv.io:80/flach58/81828249/112723
+#EXTINF:-1 tvg-id="Por.Sporttv4" tvg-name="SPORT TV 4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-453.png" group-title="22.Esp Portugal",22.SPORT TV 4¹
+http://pdsrv.io:80/flach58/81828249/112726
+#EXTINF:-1 tvg-id="Por.Sporttv5" tvg-name="SPORT TV 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-454.png" group-title="22.Esp Portugal",22.SPORT TV 5¹
+http://pdsrv.io:80/flach58/81828249/112729
+#EXTINF:-1 tvg-id="Por.Sporttv6" tvg-name="SPORT TV 6" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-2619.png" group-title="22.Esp Portugal",22.SPORT TV 6¹
+http://pdsrv.io:80/flach58/81828249/112732
+
+##-------------
+## 23.Premiere -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES FHD¹
+http://pdsrv.io:80/flach58/81828249/75995
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES HD¹
+http://pdsrv.io:80/flach58/81828249/75996
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES SD¹
+http://pdsrv.io:80/flach58/81828249/75994
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES FHD²
+http://pdsrv.io:80/flach58/81828249/97216
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES HD²
+http://pdsrv.io:80/flach58/81828249/97217
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBES SD²
+http://pdsrv.io:80/flach58/81828249/97218
+#EXTINF:-1 tvg-id="Bra.Premiere1" tvg-name="PFC CLUBES" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="23.Premiere",23.PFC CLUBESª
+http://195.181.163.144:14694/
+
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 FHD¹
+http://pdsrv.io:80/flach58/81828249/75992
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 HD¹
+http://pdsrv.io:80/flach58/81828249/75993
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 SD¹
+http://pdsrv.io:80/flach58/81828249/75991
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 FHD²
+http://pdsrv.io:80/flach58/81828249/97196
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 HD²
+http://pdsrv.io:80/flach58/81828249/97197
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2 SD²
+http://pdsrv.io:80/flach58/81828249/97198
+#EXTINF:-1 tvg-id="Bra.Premiere2" tvg-name="PREMIERE 2" tvg-logo="https://distv.net/icones/premiere2.png" group-title="23.Premiere",23.PREMIERE 2ª
+http://185.150.190.225:16482/
+
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 FHD¹
+http://pdsrv.io:80/flach58/81828249/75999
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 HD¹
+http://pdsrv.io:80/flach58/81828249/75998
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 SD¹
+http://pdsrv.io:80/flach58/81828249/75997
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 FHD²
+http://pdsrv.io:80/flach58/81828249/97199
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 HD²
+http://pdsrv.io:80/flach58/81828249/97200
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3 SD²
+http://pdsrv.io:80/flach58/81828249/97201
+#EXTINF:-1 tvg-id="Bra.Premiere3" tvg-name="PREMIERE 3" tvg-logo="https://distv.net/icones/premiere3.png" group-title="23.Premiere",23.PREMIERE 3ª
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 FHD¹
+http://pdsrv.io:80/flach58/81828249/76002
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 HD¹
+http://pdsrv.io:80/flach58/81828249/76001
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 SD¹
+http://pdsrv.io:80/flach58/81828249/76000
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 FHD²
+http://pdsrv.io:80/flach58/81828249/97202
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 HD²
+http://pdsrv.io:80/flach58/81828249/97203
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4 SD²
+http://pdsrv.io:80/flach58/81828249/97204
+#EXTINF:-1 tvg-id="Bra.Premiere4" tvg-name="PREMIERE 4" tvg-logo="https://distv.net/icones/premiere4.png" group-title="23.Premiere",23.PREMIERE 4ª
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 FHD¹
+http://pdsrv.io:80/flach58/81828249/76005
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 HD¹
+http://pdsrv.io:80/flach58/81828249/76004
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 SD¹
+http://pdsrv.io:80/flach58/81828249/76003
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 FHD²
+http://pdsrv.io:80/flach58/81828249/97205
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 HD²
+http://pdsrv.io:80/flach58/81828249/97206
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5 SD²
+http://pdsrv.io:80/flach58/81828249/97207
+#EXTINF:-1 tvg-id="Bra.Premiere5" tvg-name="PREMIERE 5" tvg-logo="https://distv.net/icones/premiere5.png" group-title="23.Premiere",23.PREMIERE 5ª
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 FHD¹
+http://pdsrv.io:80/flach58/81828249/97208
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 HD¹
+http://pdsrv.io:80/flach58/81828249/97209
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 SD¹
+http://pdsrv.io:80/flach58/81828249/97210
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 FHD²
+http://pdsrv.io:80/flach58/81828249/76008
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 HD²
+http://pdsrv.io:80/flach58/81828249/76007
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6 SD²
+http://pdsrv.io:80/flach58/81828249/76006
+#EXTINF:-1 tvg-id="Bra.Premiere6" tvg-name="PREMIERE 6" tvg-logo="https://distv.net/icones/premiere6.png" group-title="23.Premiere",23.PREMIERE 6ª
+http://185.150.190.225:16464/
+
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 FHD¹
+http://pdsrv.io:80/flach58/81828249/76011
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 HD¹
+http://pdsrv.io:80/flach58/81828249/76010
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 SD¹
+http://pdsrv.io:80/flach58/81828249/76009
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 FHD²
+http://pdsrv.io:80/flach58/81828249/97211
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 HD²
+http://pdsrv.io:80/flach58/81828249/97212
+#EXTINF:-1 tvg-id="Bra.Premiere7" tvg-name="PREMIERE 7" tvg-logo="https://distv.net/icones/premiere7.png" group-title="23.Premiere",23.PREMIERE 7 SD²
+http://pdsrv.io:80/flach58/81828249/97213
+
+##-----------------
+## 24.Pay Per View ---------------------------------------------------------------------------------
+##-----------------
+#EXTINF:-1 tvg-id="Bra.Conmebol1" tvg-name="CONMEBOL TV" tvg-logo="https://distv.net/icones/conmebol.png" group-title="24.Pay Per View",24.CONMEBOL TV 1¹
+http://pdsrv.io:80/flach58/81828249/110836
+#EXTINF:-1 tvg-id="Bra.Conmebol2" tvg-name="CONMEBOL TV" tvg-logo="https://distv.net/icones/conmebol.png" group-title="24.Pay Per View",24.CONMEBOL TV 2¹
+http://pdsrv.io:80/flach58/81828249/110837
+#EXTINF:-1 tvg-id="Bra.Conmebol3" tvg-name="CONMEBOL TV" tvg-logo="https://distv.net/icones/conmebol.png" group-title="24.Pay Per View",24.CONMEBOL TV 3¹
+http://pdsrv.io:80/flach58/81828249/110838
+#EXTINF:-1 tvg-id="Bra.Conmebol4" tvg-name="CONMEBOL TV" tvg-logo="https://distv.net/icones/conmebol.png" group-title="24.Pay Per View",24.CONMEBOL TV 4¹
+http://pdsrv.io:80/flach58/81828249/110839
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="COPA DO NORDESTE" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="24.Pay Per View",24.COPA DO NORDESTE 1¹
+http://pdsrv.io:80/flach58/81828249/123871
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="COPA DO NORDESTE" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="24.Pay Per View",24.COPA DO NORDESTE 2¹
+http://pdsrv.io:80/flach58/81828249/123872
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="COPA DO NORDESTE" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="24.Pay Per View",24.COPA DO NORDESTE 3¹
+http://pdsrv.io:80/flach58/81828249/123873
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DAZN" tvg-logo="https://distv.net/icones/dazn.png" group-title="24.Pay Per View",24.DAZN 1¹
+http://pdsrv.io:80/flach58/81828249/123992
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DAZN" tvg-logo="https://distv.net/icones/dazn.png" group-title="24.Pay Per View",24.DAZN 2¹
+http://pdsrv.io:80/flach58/81828249/123993
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DAZN" tvg-logo="https://distv.net/icones/dazn.png" group-title="24.Pay Per View",24.DAZN 3¹
+http://pdsrv.io:80/flach58/81828249/123994
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DAZN" tvg-logo="https://distv.net/icones/dazn.png" group-title="24.Pay Per View",24.DAZN 4¹
+http://pdsrv.io:80/flach58/81828249/123995
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DAZN" tvg-logo="https://distv.net/icones/dazn.png" group-title="24.Pay Per View",24.DAZN 5¹
+http://pdsrv.io:80/flach58/81828249/123996
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HBO MAX" tvg-logo="https://distv.net/icones/hbomax.png" group-title="24.Pay Per View",24.HBO MAX 1¹
+http://pdsrv.io:80/flach58/81828249/97351
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HBO MAX" tvg-logo="https://distv.net/icones/hbomax.png" group-title="24.Pay Per View",24.HBO MAX 2¹
+http://pdsrv.io:80/flach58/81828249/97352
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HBO MAX" tvg-logo="https://distv.net/icones/hbomax.png" group-title="24.Pay Per View",24.HBO MAX 3¹
+http://pdsrv.io:80/flach58/81828249/97353
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HBO MAX" tvg-logo="https://distv.net/icones/hbomax.png" group-title="24.Pay Per View",24.HBO MAX 4¹
+http://pdsrv.io:80/flach58/81828249/97354
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/JBZkjQs.png" group-title="24.Pay Per View",24.NOSSO FUTEBOL 1¹
+http://pdsrv.io:80/flach58/81828249/123988
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/JBZkjQs.png" group-title="24.Pay Per View",24.NOSSO FUTEBOL 2¹
+http://pdsrv.io:80/flach58/81828249/123989
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/JBZkjQs.png" group-title="24.Pay Per View",24.NOSSO FUTEBOL 3¹
+http://pdsrv.io:80/flach58/81828249/123990
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.imgur.com/JBZkjQs.png" group-title="24.Pay Per View",24.NOSSO FUTEBOL 4¹
+http://pdsrv.io:80/flach58/81828249/123990
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TNT SPORTS" tvg-logo="https://distv.net/icones/tntsports.png" group-title="24.Pay Per View",24.TNT SPORTS 1¹
+http://pdsrv.io:80/flach58/81828249/121107
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TNT SPORTS" tvg-logo="https://distv.net/icones/tntsports.png" group-title="24.Pay Per View",24.TNT SPORTS 2¹
+http://pdsrv.io:80/flach58/81828249/121109
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TNT SPORTS" tvg-logo="https://distv.net/icones/tntsports.png" group-title="24.Pay Per View",24.TNT SPORTS 3¹
+http://pdsrv.io:80/flach58/81828249/121111
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TNT SPORTS" tvg-logo="https://distv.net/icones/tntsports.png" group-title="24.Pay Per View",24.TNT SPORTS 4¹
+http://pdsrv.io:80/flach58/81828249/121169
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TNT SPORTS" tvg-logo="https://distv.net/icones/tntsports.png" group-title="24.Pay Per View",24.TNT SPORTS 5¹
+http://pdsrv.io:80/flach58/81828249/121171
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN SPORTS" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="24.Pay Per View",24.URBAN SPORTSº
+http://200.194.238.229:8383/live/urbansports/playlist.m3u8
+
+##------------------
+## 25.CampEstaduais --------------------------------------------------------------------------------
+##------------------
+
+##----------------
+## 30.Boas Festas ----------------------------------------------------------------------------------
+##----------------
+
+##--------
+## 31.HBO ------------------------------------------------------------------------------------------
+##--------
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 FHD¹
+http://pdsrv.io:80/flach58/81828249/11566
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 HD¹
+http://pdsrv.io:80/flach58/81828249/6108
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 SD¹
+http://pdsrv.io:80/flach58/81828249/4366
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 FHD²
+http://pdsrv.io:80/flach58/81828249/61206
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 HD²
+http://pdsrv.io:80/flach58/81828249/60974
+#EXTINF:-1 tvg-id="Bra.Hbo1" tvg-name="HBO 1" tvg-logo="https://distv.net/icones/hbo.png" group-title="31.HBO",31.HBO 1 SD²
+http://pdsrv.io:80/flach58/81828249/60973
+
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 FHD¹
+http://pdsrv.io:80/flach58/81828249/63297
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 HD¹
+http://pdsrv.io:80/flach58/81828249/6110
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 SD¹
+http://pdsrv.io:80/flach58/81828249/4365
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 FHD²
+http://pdsrv.io:80/flach58/81828249/61204
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 HD²
+http://pdsrv.io:80/flach58/81828249/60976
+#EXTINF:-1 tvg-id="Bra.Hbo2" tvg-name="HBO 2" tvg-logo="https://distv.net/icones/hbo2.png" group-title="31.HBO",31.HBO 2 SD²
+http://pdsrv.io:80/flach58/81828249/60975
+
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY FHD¹
+http://pdsrv.io:80/flach58/81828249/63299
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY HD¹
+http://pdsrv.io:80/flach58/81828249/6109
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY SD¹
+http://pdsrv.io:80/flach58/81828249/4364
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY FHD²
+http://pdsrv.io:80/flach58/81828249/61205
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY HD²
+http://pdsrv.io:80/flach58/81828249/60978
+#EXTINF:-1 tvg-id="Bra.Hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="31.HBO",31.HBO FAMILY SD²
+http://pdsrv.io:80/flach58/81828249/60977
+
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI FHD¹
+http://pdsrv.io:80/flach58/81828249/60984
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI HD¹
+http://pdsrv.io:80/flach58/81828249/10266
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI SD¹
+http://pdsrv.io:80/flach58/81828249/4358
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI FHD²
+http://pdsrv.io:80/flach58/81828249/97125
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI HD²
+http://pdsrv.io:80/flach58/81828249/97124
+#EXTINF:-1 tvg-id="Bra.Hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="31.HBO",31.HBO MUNDI SD²
+http://pdsrv.io:80/flach58/81828249/97123
+
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS FHD¹
+http://pdsrv.io:80/flach58/81828249/63298
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS HD¹
+http://pdsrv.io:80/flach58/81828249/6106
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS SD¹
+http://pdsrv.io:80/flach58/81828249/4363
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS FHD²
+http://pdsrv.io:80/flach58/81828249/61207
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS HD²
+http://pdsrv.io:80/flach58/81828249/60979
+#EXTINF:-1 tvg-id="Bra.Hboplus" tvg-name="HBO PLUS" tvg-logo="https://distv.net/icones/hboplus.png" group-title="31.HBO",31.HBO PLUS SD²
+http://pdsrv.io:80/flach58/81828249/97119
+
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP FHD¹
+http://pdsrv.io:80/flach58/81828249/25015
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP HD¹
+http://pdsrv.io:80/flach58/81828249/60988
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP SD¹
+http://pdsrv.io:80/flach58/81828249/10265
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP FHD²
+http://pdsrv.io:80/flach58/81828249/97122
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP HD²
+http://pdsrv.io:80/flach58/81828249/97121
+#EXTINF:-1 tvg-id="Bra.Hbopop" tvg-name="HBO POP" tvg-logo="https://distv.net/icones/hbopop.png" group-title="31.HBO",31.HBO POP SD²
+http://pdsrv.io:80/flach58/81828249/97120
+
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE FHD¹
+http://pdsrv.io:80/flach58/81828249/63300
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE HD¹
+http://pdsrv.io:80/flach58/81828249/6105
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE SD¹
+http://pdsrv.io:80/flach58/81828249/4361
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE FHD²
+http://pdsrv.io:80/flach58/81828249/61208
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE HD²
+http://pdsrv.io:80/flach58/81828249/60982
+#EXTINF:-1 tvg-id="Bra.Hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="31.HBO",31.HBO SIGNATURE SD²
+http://pdsrv.io:80/flach58/81828249/60981
+
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME FHD¹
+http://pdsrv.io:80/flach58/81828249/63302
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME HD¹
+http://pdsrv.io:80/flach58/81828249/4357
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME SD¹
+http://pdsrv.io:80/flach58/81828249/7850
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME FHD²
+http://pdsrv.io:80/flach58/81828249/61210
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME HD²
+http://pdsrv.io:80/flach58/81828249/62851
+#EXTINF:-1 tvg-id="Bra.Hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="31.HBO",31.HBO XTREME SD²
+http://pdsrv.io:80/flach58/81828249/62850
+
+##-------------
+## 32.Telecine -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION FHD¹
+http://pdsrv.io:80/flach58/81828249/8141
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION HD¹
+http://pdsrv.io:80/flach58/81828249/6080
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION SD¹
+http://pdsrv.io:80/flach58/81828249/4320
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION FHD²
+http://pdsrv.io:80/flach58/81828249/97300
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION HD²
+http://pdsrv.io:80/flach58/81828249/97301
+#EXTINF:-1 tvg-id="Bra.Tcaction" tvg-name="TC ACTION" tvg-logo="https://distv.net/icones/tcaction.png" group-title="32.Telecine",32.TC ACTION SD²
+http://pdsrv.io:80/flach58/81828249/97302
+
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT FHD¹
+http://pdsrv.io:80/flach58/81828249/63295
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT HD¹
+http://pdsrv.io:80/flach58/81828249/10247
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT SD¹
+http://pdsrv.io:80/flach58/81828249/4319
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT FHD²
+http://pdsrv.io:80/flach58/81828249/97305
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT HD²
+http://pdsrv.io:80/flach58/81828249/97306
+#EXTINF:-1 tvg-id="Bra.Tccult" tvg-name="TC CULT" tvg-logo="https://distv.net/icones/tccult.png" group-title="32.Telecine",32.TC CULT SD²
+http://pdsrv.io:80/flach58/81828249/97307
+
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN FHD¹
+http://pdsrv.io:80/flach58/81828249/63294
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN HD¹
+http://pdsrv.io:80/flach58/81828249/6079
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN SD¹
+http://pdsrv.io:80/flach58/81828249/4318
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN FHD²
+http://pdsrv.io:80/flach58/81828249/97310
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN HD²
+http://pdsrv.io:80/flach58/81828249/97311
+#EXTINF:-1 tvg-id="Bra.Tcfun" tvg-name="TC FUN" tvg-logo="https://distv.net/icones/tcfun.png" group-title="32.Telecine",32.TC FUN SD²
+http://pdsrv.io:80/flach58/81828249/97312
+
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA FHD¹
+http://pdsrv.io:80/flach58/81828249/100571
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA HD¹
+http://pdsrv.io:80/flach58/81828249/100568
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA SD¹
+http://pdsrv.io:80/flach58/81828249/100566
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA FHD²
+http://pdsrv.io:80/flach58/81828249/100570
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA HD²
+http://pdsrv.io:80/flach58/81828249/100569
+#EXTINF:-1 tvg-id="Bra.Tcpipoca" tvg-name="TC PIPOCA" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="32.Telecine",32.TC PIPOCA SD²
+http://pdsrv.io:80/flach58/81828249/100567
+
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM FHD¹
+http://pdsrv.io:80/flach58/81828249/63290
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM HD¹
+http://pdsrv.io:80/flach58/81828249/6077
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM SD¹
+http://pdsrv.io:80/flach58/81828249/4316
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM FHD²
+http://pdsrv.io:80/flach58/81828249/97320
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM HD²
+http://pdsrv.io:80/flach58/81828249/97321
+#EXTINF:-1 tvg-id="Bra.Tcpremium" tvg-name="TC PREMIUM" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="32.Telecine",32.TC PREMIUM SD²
+http://pdsrv.io:80/flach58/81828249/97322
+
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH FHD¹
+http://pdsrv.io:80/flach58/81828249/100578
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH HD¹
+http://pdsrv.io:80/flach58/81828249/100576
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH SD¹
+http://pdsrv.io:80/flach58/81828249/100574
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH FHD²
+http://pdsrv.io:80/flach58/81828249/100579
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH HD²
+http://pdsrv.io:80/flach58/81828249/100577
+#EXTINF:-1 tvg-id="Bra.Tctouch" tvg-name="TC TOUCH" tvg-logo="https://distv.net/icones/tctouch.png" group-title="32.Telecine",32.TC TOUCH SD²
+http://pdsrv.io:80/flach58/81828249/100575
+
+##------------------
+## 33.Filmes Séries --------------------------------------------------------------------------------
+##------------------
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E FHD¹
+http://pdsrv.io:80/flach58/81828249/61196
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E HD¹
+http://pdsrv.io:80/flach58/81828249/8139
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E SD¹
+http://pdsrv.io:80/flach58/81828249/4404
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E FHD²
+http://pdsrv.io:80/flach58/81828249/97219
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E HD²
+http://pdsrv.io:80/flach58/81828249/97220
+#EXTINF:-1 tvg-id="Bra.Ae" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="33.Filmes Séries",33.A&E SD²
+http://pdsrv.io:80/flach58/81828249/97221
+
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC FHD¹
+http://pdsrv.io:80/flach58/81828249/61194
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC HD¹
+http://pdsrv.io:80/flach58/81828249/7691
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC SD¹
+http://pdsrv.io:80/flach58/81828249/20891
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC FHD²
+http://pdsrv.io:80/flach58/81828249/97222
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC HD²
+http://pdsrv.io:80/flach58/81828249/97223
+#EXTINF:-1 tvg-id="Bra.Amc" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="33.Filmes Séries",33.AMC SD²
+http://pdsrv.io:80/flach58/81828249/97224
+
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN FHD¹
+http://pdsrv.io:80/flach58/81828249/13212
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN HD¹
+http://pdsrv.io:80/flach58/81828249/60937
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN SD¹
+http://pdsrv.io:80/flach58/81828249/4402
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN FHD²
+http://pdsrv.io:80/flach58/81828249/97225
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN HD²
+http://pdsrv.io:80/flach58/81828249/97226
+#EXTINF:-1 tvg-id="Bra.Axn" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="33.Filmes Séries",33.AXN SD²
+http://pdsrv.io:80/flach58/81828249/97227
+
+#EXTINF:-1 tvg-id="Bra.Canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="33.Filmes Séries",33.CANAL BRASIL FHD¹
+http://pdsrv.io:80/flach58/81828249/75477
+#EXTINF:-1 tvg-id="Bra.Canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="33.Filmes Séries",33.CANAL BRASIL HD¹
+http://pdsrv.io:80/flach58/81828249/6963
+#EXTINF:-1 tvg-id="Bra.Canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="33.Filmes Séries",33.CANAL BRASIL FHD²
+http://pdsrv.io:80/flach58/81828249/62843
+#EXTINF:-1 tvg-id="Bra.Canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="33.Filmes Séries",33.CANAL BRASIL HD²
+http://pdsrv.io:80/flach58/81828249/61412
+#EXTINF:-1 tvg-id="Bra.Canalbrasil" tvg-name="CANAL BRASIL" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="33.Filmes Séries",33.CANAL BRASIL SD²
+http://pdsrv.io:80/flach58/81828249/62842
+
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL FHD¹
+http://pdsrv.io:80/flach58/81828249/61200
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL HD¹
+http://pdsrv.io:80/flach58/81828249/6876
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL SD¹
+http://pdsrv.io:80/flach58/81828249/61164
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL FHD²
+http://pdsrv.io:80/flach58/81828249/97581
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL HD²
+http://pdsrv.io:80/flach58/81828249/97582
+#EXTINF:-1 tvg-id="Bra.Cinecanal" tvg-name="CINECANAL" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="33.Filmes Séries",33.CINECANAL SD²
+http://pdsrv.io:80/flach58/81828249/97583
+
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX FHD¹
+http://pdsrv.io:80/flach58/81828249/10993
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX HD¹
+http://pdsrv.io:80/flach58/81828249/7802
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX SD¹
+http://pdsrv.io:80/flach58/81828249/4393
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX FHD²
+http://pdsrv.io:80/flach58/81828249/97238
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX HD²
+http://pdsrv.io:80/flach58/81828249/97239
+#EXTINF:-1 tvg-id="Bra.Cinemax" tvg-name="CINEMAX" tvg-logo="https://distv.net/icones/cinemax.png" group-title="33.Filmes Séries",33.CINEMAX SD²
+http://pdsrv.io:80/flach58/81828249/97240
+
+#EXTINF:-1 tvg-id="Bra.Filmearts" tvg-name="FILM & ARTS" tvg-logo="https://distv.net/icones/filmeseartes.png" group-title="33.Filmes Séries",33.FILM & ARTS FHD¹
+http://pdsrv.io:80/flach58/81828249/60962
+#EXTINF:-1 tvg-id="Bra.Filmearts" tvg-name="FILM & ARTS" tvg-logo="https://distv.net/icones/filmeseartes.png" group-title="33.Filmes Séries",33.FILM & ARTS HD¹
+http://pdsrv.io:80/flach58/81828249/60963
+#EXTINF:-1 tvg-id="Bra.Filmearts" tvg-name="FILM & ARTS" tvg-logo="https://distv.net/icones/filmeseartes.png" group-title="33.Filmes Séries",33.FILM & ARTS FHD²
+http://pdsrv.io:80/flach58/81828249/97599
+#EXTINF:-1 tvg-id="Bra.Filmearts" tvg-name="FILM & ARTS" tvg-logo="https://distv.net/icones/filmeseartes.png" group-title="33.Filmes Séries",33.FILM & ARTS HD²
+http://pdsrv.io:80/flach58/81828249/97600
+
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX FHD¹
+http://pdsrv.io:80/flach58/81828249/61203
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX HD¹
+http://pdsrv.io:80/flach58/81828249/6116
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX SD¹
+http://pdsrv.io:80/flach58/81828249/4371
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX FHD²
+http://pdsrv.io:80/flach58/81828249/97541
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX HD²
+http://pdsrv.io:80/flach58/81828249/97542
+#EXTINF:-1 tvg-id="Bra.Fx" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="33.Filmes Séries",33.FX SD²
+http://pdsrv.io:80/flach58/81828249/97543
+
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME FHD¹
+http://pdsrv.io:80/flach58/81828249/69157
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME HD¹
+http://pdsrv.io:80/flach58/81828249/7525
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME SD¹
+http://pdsrv.io:80/flach58/81828249/7876
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME FHD²
+http://pdsrv.io:80/flach58/81828249/97640
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME HD²
+http://pdsrv.io:80/flach58/81828249/97641
+#EXTINF:-1 tvg-id="Bra.Lifetime" tvg-name="LIFETIME" tvg-logo="https://distv.net/icones/lifetime.png" group-title="33.Filmes Séries",33.LIFETIME SD²
+http://pdsrv.io:80/flach58/81828249/97642
+
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX FHD¹
+http://pdsrv.io:80/flach58/81828249/97003
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX HD¹
+http://pdsrv.io:80/flach58/81828249/6101
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX SD¹
+http://pdsrv.io:80/flach58/81828249/4354
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX FHD²
+http://pdsrv.io:80/flach58/81828249/97348
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX HD²
+http://pdsrv.io:80/flach58/81828249/97349
+#EXTINF:-1 tvg-id="Bra.Megapix" tvg-name="MEGAPIX" tvg-logo="https://distv.net/icones/megapix.png" group-title="33.Filmes Séries",33.MEGAPIX SD²
+http://pdsrv.io:80/flach58/81828249/97350
+
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT FHD¹
+http://pdsrv.io:80/flach58/81828249/13185
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT HD¹
+http://pdsrv.io:80/flach58/81828249/6945
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT SD¹
+http://pdsrv.io:80/flach58/81828249/6946
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT FHD²
+http://pdsrv.io:80/flach58/81828249/97568
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT HD²
+http://pdsrv.io:80/flach58/81828249/97569
+#EXTINF:-1 tvg-id="Bra.Paramount" tvg-name="PARAMOUNT" tvg-logo="https://distv.net/icones/paramount.png" group-title="33.Filmes Séries",33.PARAMOUNT SD²
+http://pdsrv.io:80/flach58/81828249/97570
+
+#EXTINF:-1 tvg-id="Bra.Primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="33.Filmes Séries",33.PRIME BOX BRAZIL HD¹
+http://pdsrv.io:80/flach58/81828249/62826
+#EXTINF:-1 tvg-id="Bra.Primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="33.Filmes Séries",33.PRIME BOX BRAZIL FHDª
+http://4play.top:80/pedro1515/1515pedro/69212
+#EXTINF:-1 tvg-id="Bra.Primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="33.Filmes Séries",33.PRIME BOX BRAZIL HDª
+http://4play.top:80/pedro1515/1515pedro/69213
+#EXTINF:-1 tvg-id="Bra.Primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="33.Filmes Séries",33.PRIME BOX BRAZIL SDª
+http://4play.top:80/pedro1515/1515pedro/69214
+
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL FHD¹
+http://pdsrv.io:80/flach58/81828249/13202
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL HD¹
+http://pdsrv.io:80/flach58/81828249/6961
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL SD¹
+http://pdsrv.io:80/flach58/81828249/4395
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL FHD²
+http://pdsrv.io:80/flach58/81828249/97128
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL HD²
+http://pdsrv.io:80/flach58/81828249/97127
+#EXTINF:-1 tvg-id="Bra.Sonychannel" tvg-name="SONY CHANNEL" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="33.Filmes Séries",33.SONY CHANNEL SD²
+http://pdsrv.io:80/flach58/81828249/97126
+
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE FHD¹
+http://pdsrv.io:80/flach58/81828249/33767
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE HD¹
+http://pdsrv.io:80/flach58/81828249/6085
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE SD¹
+http://pdsrv.io:80/flach58/81828249/4328
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE FHD²
+http://pdsrv.io:80/flach58/81828249/97327
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE HD²
+http://pdsrv.io:80/flach58/81828249/97328
+#EXTINF:-1 tvg-id="Bra.Space" tvg-name="SPACE" tvg-logo="https://distv.net/icones/space.png" group-title="33.Filmes Séries",33.SPACE SD²
+http://pdsrv.io:80/flach58/81828249/97329
+
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL FHD¹
+http://pdsrv.io:80/flach58/81828249/61199
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL HD¹
+http://pdsrv.io:80/flach58/81828249/6122
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL SD¹
+http://pdsrv.io:80/flach58/81828249/4375
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL FHD²
+http://pdsrv.io:80/flach58/81828249/97573
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL HD²
+http://pdsrv.io:80/flach58/81828249/97574
+#EXTINF:-1 tvg-id="Bra.Starchannel" tvg-name="STAR CHANNEL" tvg-logo="https://distv.net/icones/starchannel.png" group-title="33.Filmes Séries",33.STAR CHANNEL SD²
+http://pdsrv.io:80/flach58/81828249/97584
+
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL FHD¹
+http://pdsrv.io:80/flach58/81828249/61217
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL HD¹
+http://pdsrv.io:80/flach58/81828249/7874
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL SD¹
+http://pdsrv.io:80/flach58/81828249/4324
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL FHD²
+http://pdsrv.io:80/flach58/81828249/97154
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL HD²
+http://pdsrv.io:80/flach58/81828249/97155
+#EXTINF:-1 tvg-id="Bra.Studiouniversal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="33.Filmes Séries",33.STUDIO UNIVERSAL SD²
+http://pdsrv.io:80/flach58/81828249/97156
+
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY FHD¹
+http://pdsrv.io:80/flach58/81828249/13195
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY HD¹
+http://pdsrv.io:80/flach58/81828249/7795
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY SD¹
+http://pdsrv.io:80/flach58/81828249/4323
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY FHD²
+http://pdsrv.io:80/flach58/81828249/97131
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY HD²
+http://pdsrv.io:80/flach58/81828249/97130
+#EXTINF:-1 tvg-id="Bra.Syfy" tvg-name="SYFY" tvg-logo="https://distv.net/icones/syfy.png" group-title="33.Filmes Séries",33.SYFY SD²
+http://pdsrv.io:80/flach58/81828249/97129
+
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS FHD¹
+http://pdsrv.io:80/flach58/81828249/94154
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS HD¹
+http://pdsrv.io:80/flach58/81828249/7873
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS SD¹
+http://pdsrv.io:80/flach58/81828249/4322
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS FHD²
+http://pdsrv.io:80/flach58/81828249/97589
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS HD²
+http://pdsrv.io:80/flach58/81828249/97590
+#EXTINF:-1 tvg-id="Bra.Tbs" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="33.Filmes Séries",33.TBS SD²
+http://pdsrv.io:80/flach58/81828249/97591
+
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM FHD¹
+http://pdsrv.io:80/flach58/81828249/75486
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM HD¹
+http://pdsrv.io:80/flach58/81828249/61003
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM SD¹
+http://pdsrv.io:80/flach58/81828249/4321
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM FHD²
+http://pdsrv.io:80/flach58/81828249/97585
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM HD²
+http://pdsrv.io:80/flach58/81828249/97586
+#EXTINF:-1 tvg-id="Bra.Tcm" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="33.Filmes Séries",33.TCM SD²
+http://pdsrv.io:80/flach58/81828249/97587
+
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT FHD¹
+http://pdsrv.io:80/flach58/81828249/63289
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT HD¹
+http://pdsrv.io:80/flach58/81828249/6074
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT SD¹
+http://pdsrv.io:80/flach58/81828249/61017
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT FHD²
+http://pdsrv.io:80/flach58/81828249/97251
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT HD²
+http://pdsrv.io:80/flach58/81828249/97252
+#EXTINF:-1 tvg-id="Bra.Tnt" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="33.Filmes Séries",33.TNT SD²
+http://pdsrv.io:80/flach58/81828249/97253
+
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES FHD¹
+http://pdsrv.io:80/flach58/81828249/61226
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES HD¹
+http://pdsrv.io:80/flach58/81828249/6073
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES SD¹
+http://pdsrv.io:80/flach58/81828249/61019
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES FHD²
+http://pdsrv.io:80/flach58/81828249/97256
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES HD²
+http://pdsrv.io:80/flach58/81828249/97257
+#EXTINF:-1 tvg-id="Bra.Tntseries" tvg-name="TNT SERIES" tvg-logo="https://distv.net/icones/tntseries.png" group-title="33.Filmes Séries",33.TNT SERIES SD²
+http://pdsrv.io:80/flach58/81828249/97258
+
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL FHD¹
+http://pdsrv.io:80/flach58/81828249/61227
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL HD¹
+http://pdsrv.io:80/flach58/81828249/5987
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL SD¹
+http://pdsrv.io:80/flach58/81828249/20465
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL FHD²
+http://pdsrv.io:80/flach58/81828249/97592
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL HD²
+http://pdsrv.io:80/flach58/81828249/97593
+#EXTINF:-1 tvg-id="Bra.Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://distv.net/icones/universalchannel.png" group-title="33.Filmes Séries",33.UNIVERSAL CHANNEL SD²
+http://pdsrv.io:80/flach58/81828249/97594
+
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL FHD¹
+http://pdsrv.io:80/flach58/81828249/61228
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL HD¹
+http://pdsrv.io:80/flach58/81828249/11525
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL SD¹
+http://pdsrv.io:80/flach58/81828249/6072
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL FHD²
+http://pdsrv.io:80/flach58/81828249/97597
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL HD²
+http://pdsrv.io:80/flach58/81828249/97598
+#EXTINF:-1 tvg-id="Bra.Warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="33.Filmes Séries",33.WARNER CHANNEL SD²
+http://pdsrv.io:80/flach58/81828249/4307
+
+##-------------
+## 34.Cine 24H -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="BORA FILMES" tvg-logo="https://static.b2pteam.com/logos/filmeseseries/bora.png" group-title="34.Cine 24H",34.BORA FILMESª
+http://uva.bccdn.xyz:80/909247548285pw/98743578428pw/63052
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CINE GOSPEL" tvg-logo="https://distv.net/icones/redegospel.png" group-title="34.Cine 24H",34.CINE GOSPELª
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CINE LIFE CLASSIC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d6cb19f3f5b307780c2169b89c826ae.webp" group-title="34.Cine 24H",34.CINE LIFE CLASSICª
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CINE MARVEL" tvg-logo="https://static.b2pteam.com/logos/filmes24h/marvel.png" group-title="34.Cine 24H",34.CINE MARVELª
+http://pdsrv.io:80/flach58/81828249/60789
+
+#EXTINF:-1 tvg-id="Bra.Disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="34.Cine 24H",34.DISNEY CHANNEL¹
+http://pdsrv.io:80/flach58/81828249/100310
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DISNEY CINEMA" tvg-logo="https://cinematologia.com.br/cine/wp-content/uploads/2019/10/disney-plus-logo.jpg" group-title="34.Cine 24H",34.DISNEY CINEMA¹
+http://pdsrv.io:80/flach58/81828249/63309
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DISNEY FÁBULAS" tvg-logo="https://images1.calcalist.co.il/PicServer3/2019/04/30/902720/15_lm.jpg" group-title="34.Cine 24H",34.DISNEY FÁBULAS¹
+http://pdsrv.io:80/flach58/81828249/34889
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ENTRETENDO" tvg-logo="http://baitaconteudo.com/wp-content/uploads/2013/05/logo_entretendo_new.png" group-title="34.Cine 24H",34.ENTRETENDOª
+http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Eurochannel" tvg-name="EURO CHANNEL" tvg-logo="https://distv.net/icones/eurochannel.png" group-title="34.Cine 24H",34.EURO CHANNELª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="FRONTEIRA MOVIES" tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="34.Cine 24H",34.FRONTEIRA MOVIESª
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="MYTIME" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="34.Cine 24H",34.MYTIMEº
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="RUNTIME" tvg-logo="https://tinyurl.com/2zguwp6n" group-title="34.Cine 24H",34.RUNTIMEº
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="RUNTIME AÇÃO" tvg-logo="https://tinyurl.com/2gtsscv6" group-title="34.Cine 24H",34.RUNTIME AÇÃOº
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="RUNTIME COMÉDIA" tvg-logo="https://tinyurl.com/2ooyx2u5" group-title="34.Cine 24H",34.RUNTIME COMÉDIAº
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SESSÃO DA TARDE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Sess%C3%A3odatarde20133d.png/revision/latest?cb=20160610114014" group-title="34.Cine 24H",34.SESSÃO DA TARDE¹
+http://pdsrv.io:80/flach58/81828249/60777
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SOUL CINE CLUBE" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="34.Cine 24H",34.SOUL CINE CLUBEº
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN MOVIES" tvg-logo="https://static.b2pteam.com/logos/filmeseseries/urbanmovies.png" group-title="34.Cine 24H",34.URBAN MOVIESº
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN RETRÔ" tvg-logo="https://static.b2pteam.com/logos/filmeseseries/urbanretro.png" group-title="34.Cine 24H",34.URBAN RETRÔº
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
+##---------------
+## 35.Cine Pluto -----------------------------------------------------------------------------------
+##---------------
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="CINE AÇÃO" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE AÇÃOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="CINE ADRENALINA" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE ADRENALINAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="CINE CLÁSSICO" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE CLÁSSICOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="CINE COMÉDIA" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE COMÉDIAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="CINE COMÉDIA ROMÂNTICA" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE COMÉDIA ROMÂNTICAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="CINE DRAMA" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE DRAMAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="CINE FAMÍLIA" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE FAMÍLIAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="CINE FICÇÃO" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE FICÇÃOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="CINE FILMELIER" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE FILMELIERº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="CINE NACIONAL" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE NACIONALº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="CINE ROMANCE" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE ROMANCEº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="CINE SUCESSO" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE SUCESSOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="CINE SUSPENSE" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="35.Cine Pluto",35.CINE SUSPENSEº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+##------------------
+## 36.Cine Portugal --------------------------------------------------------------------------------
+##------------------
+#EXTINF:-1 tvg-id="Por.Amc" tvg-name="AMC" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/479/" group-title="36.Cine Portugal",36.AMC FHD¹
+http://pdsrv.io:80/flach58/81828249/112525
+#EXTINF:-1 tvg-id="Por.Amc" tvg-name="AMC" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/479/" group-title="36.Cine Portugal",36.AMC HD¹
+http://pdsrv.io:80/flach58/81828249/112527
+#EXTINF:-1 tvg-id="Por.Amc" tvg-name="AMC" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/479/" group-title="36.Cine Portugal",36.AMC SD¹
+http://pdsrv.io:80/flach58/81828249/112526
+
+#EXTINF:-1 tvg-id="Por.Axn" tvg-name="AXN" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/108/" group-title="36.Cine Portugal",36.AXN FHD¹
+http://pdsrv.io:80/flach58/81828249/112531
+#EXTINF:-1 tvg-id="Por.Axn" tvg-name="AXN" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/108/" group-title="36.Cine Portugal",36.AXN HD¹
+http://pdsrv.io:80/flach58/81828249/112532
+#EXTINF:-1 tvg-id="Por.Axn" tvg-name="AXN" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/108/" group-title="36.Cine Portugal",36.AXN SD¹
+http://pdsrv.io:80/flach58/81828249/112533
+
+#EXTINF:-1 tvg-id="Por.Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/352/" group-title="36.Cine Portugal",36.CINEMUNDO FHD¹
+http://pdsrv.io:80/flach58/81828249/112572
+#EXTINF:-1 tvg-id="Por.Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/352/" group-title="36.Cine Portugal",36.CINEMUNDO HD¹
+http://pdsrv.io:80/flach58/81828249/112571
+#EXTINF:-1 tvg-id="Por.Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/352/" group-title="36.Cine Portugal",36.CINEMUNDO SD¹
+http://pdsrv.io:80/flach58/81828249/112573
+
+#EXTINF:-1 tvg-id="Por.Foxmovies" tvg-name="FOX MOVIES" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/197/" group-title="36.Cine Portugal",36.FOX MOVIES FHD¹
+http://pdsrv.io:80/flach58/81828249/112633
+#EXTINF:-1 tvg-id="Por.Foxmovies" tvg-name="FOX MOVIES" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/197/" group-title="36.Cine Portugal",36.FOX MOVIES HD¹
+http://pdsrv.io:80/flach58/81828249/112635
+#EXTINF:-1 tvg-id="Por.Foxmovies" tvg-name="FOX MOVIES" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/197/" group-title="36.Cine Portugal",36.FOX MOVIES SD¹
+http://pdsrv.io:80/flach58/81828249/112636
+
+#EXTINF:-1 tvg-id="Por.Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/478/" group-title="36.Cine Portugal",36.HOLLYWOOD FHD¹
+http://pdsrv.io:80/flach58/81828249/112647
+#EXTINF:-1 tvg-id="Por.Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/478/" group-title="36.Cine Portugal",36.HOLLYWOOD HD¹
+http://pdsrv.io:80/flach58/81828249/112648
+#EXTINF:-1 tvg-id="Por.Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/478/" group-title="36.Cine Portugal",36.HOLLYWOOD SD¹
+http://pdsrv.io:80/flach58/81828249/112649
+
+#EXTINF:-1 tvg-id="Por.Tvcineaction" tvg-name="TVCINE ACTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/182/" group-title="36.Cine Portugal",36.TVCINE ACTION FHD¹
+http://pdsrv.io:80/flach58/81828249/112752
+#EXTINF:-1 tvg-id="Por.Tvcineaction" tvg-name="TVCINE ACTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/182/" group-title="36.Cine Portugal",36.TVCINE ACTION HD¹
+http://pdsrv.io:80/flach58/81828249/112753
+#EXTINF:-1 tvg-id="Por.Tvcineaction" tvg-name="TVCINE ACTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/182/" group-title="36.Cine Portugal",36.TVCINE ACTION SD¹
+http://pdsrv.io:80/flach58/81828249/112754
+
+#EXTINF:-1 tvg-id="Por.Tvcineedition" tvg-name="TVCINE EDITION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/150/" group-title="36.Cine Portugal",36.TVCINE EDITION FHD¹
+http://pdsrv.io:80/flach58/81828249/112756
+#EXTINF:-1 tvg-id="Por.Tvcineedition" tvg-name="TVCINE EDITION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/150/" group-title="36.Cine Portugal",36.TVCINE EDITION HD¹
+http://pdsrv.io:80/flach58/81828249/112757
+#EXTINF:-1 tvg-id="Por.Tvcineedition" tvg-name="TVCINE EDITION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/150/" group-title="36.Cine Portugal",36.TVCINE EDITION SD¹
+http://pdsrv.io:80/flach58/81828249/112758
+
+#EXTINF:-1 tvg-id="Por.Tvcineemotion" tvg-name="TVCINE EMOTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/181/" group-title="36.Cine Portugal",36.TVCINE EMOTION FHD¹
+http://pdsrv.io:80/flach58/81828249/112760
+#EXTINF:-1 tvg-id="Por.Tvcineemotion" tvg-name="TVCINE EMOTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/181/" group-title="36.Cine Portugal",36.TVCINE EMOTION HD¹
+http://pdsrv.io:80/flach58/81828249/112761
+#EXTINF:-1 tvg-id="Por.Tvcineemotion" tvg-name="TVCINE EMOTION" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/181/" group-title="36.Cine Portugal",36.TVCINE EMOTION SD¹
+http://pdsrv.io:80/flach58/81828249/112762
+
+#EXTINF:-1 tvg-id="Por.Tvcinetop" tvg-name="TVCINE TOP" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/149/" group-title="36.Cine Portugal",36.TVCINE TOP FHD¹
+http://pdsrv.io:80/flach58/81828249/112764
+#EXTINF:-1 tvg-id="Por.Tvcinetop" tvg-name="TVCINE TOP" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/149/" group-title="36.Cine Portugal",36.TVCINE TOP HD¹
+http://pdsrv.io:80/flach58/81828249/112765
+#EXTINF:-1 tvg-id="Por.Tvcinetop" tvg-name="TVCINE TOP" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/149/" group-title="36.Cine Portugal",36.TVCINE TOP SD¹
+http://pdsrv.io:80/flach58/81828249/112766
+
+##-------------
+## 37.Cine SKY -----------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 10" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 10ª
+http://dmnet.distv.net:80/dianna/123456/20
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 11" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 11ª
+http://dmnet.distv.net:80/dianna/123456/21
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 12" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 12ª
+http://dmnet.distv.net:80/dianna/123456/22
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 13" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 13ª
+http://dmnet.distv.net:80/dianna/123456/23
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 14" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 14ª
+http://dmnet.distv.net:80/dianna/123456/24
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 15" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 15ª
+http://dmnet.distv.net:80/dianna/123456/25
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 16" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 16ª
+http://dmnet.distv.net:80/dianna/123456/26
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 17" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 17ª
+http://dmnet.distv.net:80/dianna/123456/27
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 18" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 18ª
+http://dmnet.distv.net:80/dianna/123456/28
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="SKY CINEMA 19" tvg-logo="https://distv.net/icones/skycinema.png" group-title="37.Cine SKY",37.SKY CINEMA 19ª
+http://dmnet.distv.net:80/dianna/123456/29
+
+##---------------
+## 38.Séries 24H -----------------------------------------------------------------------------------
+##---------------
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://static.bldn.vip/logos/series24h/Dois-homens-e-meio.png" group-title="38.Séries 24H",38.DOIS HOMENS E MEIO¹
+http://pdsrv.io:80/flach58/81828249/68363
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="Dr HOUSE" tvg-logo="https://static.b2pteam.com/logos/series24h/Dr-house.png" group-title="38.Séries 24H",38.Dr HOUSE¹
+http://pdsrv.io:80/flach58/81828249/67589
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="EU A PATROA E AS CRIANÇAS" tvg-logo="http://static.bldn.vip/logos/series24h/Eu-a-patroa-e-as-criancas.png" group-title="38.Séries 24H",38.EU A PATROA E AS CRIANÇASª
+http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204157
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="FILMRISE SÉRIES" tvg-logo="https://imgur.com/vhQi658.png" group-title="38.Séries 24H",38.FILMRISE SÉRIESª
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="GRAN HOTEL" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/fanart/252488/1172031-0-q80.jpg" group-title="38.Séries 24H",38.GRAN HOTEL¹
+http://pdsrv.io:80/flach58/81828249/60770
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="MIAMI VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/7d/Miami_Vice.png" group-title="38.Séries 24H",38.MIAMI VICE¹
+http://pdsrv.io:80/flach58/81828249/100841
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="STAR TREK New" tvg-logo="https://www.trekbrasilis.org/tbweblog/wp-content/uploads/2020/09/Star-Trek-Universe-gde-tb.jpg" group-title="38.Séries 24H",38.STAR TREK Newª
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109132
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="THE BIG BANG THEORY" tvg-logo="http://static.bldn.vip/logos/series24h/The-Big-Bang-Theory.png" group-title="38.Séries 24H",38.THE BIG BANG THEORY¹
+http://pdsrv.io:80/flach58/81828249/63308
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://static.bldn.vip/logos/series24h/Todo-Mundo-Odeio-O-Chris.png" group-title="38.Séries 24H",38.TODO MUNDO ODEIA O CHRIS¹
+http://pdsrv.io:80/flach58/81828249/34931
+
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-name="TV SÉRIES" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="38.Séries 24H",38.TV SÉRIESº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://static.bldn.vip/logos/series24h/Um-Maluco-No-Pedaco.png" group-title="38.Séries 24H",38.UM MALUCO NO PEDAÇO¹
+http://pdsrv.io:80/flach58/81828249/34934
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN SERIES" tvg-logo="https://static.b2pteam.com/logos/filmeseseries/urbanseries.png" group-title="38.Séries 24H",38.URBAN SERIESº
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-name="YOUNGER" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="38.Séries 24H",38.YOUNGERº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+##--------------
+## 39.Nostalgia ------------------------------------------------------------------------------------
+##--------------
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-name="A FEITICEIRA" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="39.Nostalgia",39.A FEITICEIRAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="AGENTE 86" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/10/2f/97/102f978fa50ffadc295e37b8d1c41c08.jpg" group-title="39.Nostalgia",39.AGENTE 86ª
+https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ALF O ETEIMOSO" tvg-logo="http://24horas.cc:80/images/70e8ba9f23fdce063a1229c186040561.jpg" group-title="39.Nostalgia",39.ALF O ETEIMOSO¹
+http://pdsrv.io:80/flach58/81828249/75599
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="AS PANTERAS" tvg-logo="https://audienciadatv.net/wp-content/uploads/2019/03/as-panteras-1.jpg" group-title="39.Nostalgia",39.AS PANTERASª
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CHIPS" tvg-logo="https://i.ytimg.com/vi/GO0GwJrJDIk/maxresdefault.jpg" group-title="39.Nostalgia",39.CHIPSª
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ESCOLINHA PROF RAIMUNDO" tvg-logo="http://static.bldn.vip/logos/series24h/Escolinha-do-Prof-Raimundo.png" group-title="39.Nostalgia",39.ESCOLINHA PROF RAIMUNDO¹
+http://pdsrv.io:80/flach58/81828249/60784
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HOGAN's HEROES" tvg-logo="https://zheit.com.br/wdadmin/uploads/blog_postagens/hogans-heroes-202004131727.jpg" group-title="39.Nostalgia",39.HOGAN's HEROESª
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HOMEM BIÔNICO" tvg-logo="https://www.cultura930.com.br/wp-content/uploads/2020/12/steve_austin_cyborg.jpg" group-title="39.Nostalgia",39.HOMEM BIÔNICOª
+https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-name="JEANNIE É UM GÊNIO" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="39.Nostalgia",39.JEANNIE É UM GÊNIOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="MULHER BIÔNICA" tvg-logo="https://1.bp.blogspot.com/-mvEkEyRm3FI/YER0X4QUtgI/AAAAAAAAOr0/GFs-QEaPe2Ee49kWU-Ek9P1qV7XnjyicACLcBGAsYHQ/s1200/bionica%2Bcapa.jpeg" group-title="39.Nostalgia",39.MULHER BIÔNICAª
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-name="O HOMEM QUE VEIO DO CÉU" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="39.Nostalgia",39.O HOMEM QUE VEIO DO CÉUº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-name="OS TRÊS PATETAS" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="39.Nostalgia",39.OS TRÊS PATETASº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="STAR TREK" tvg-logo="https://ovicio.com.br/wp-content/uploads/classic-star-trek-montage.jpg" group-title="39.Nostalgia",39.STAR TREKª
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-name="TV RETRÔ" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="39.Nostalgia",39.TV RETRÔº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+##------------------
+## 41.Documentários --------------------------------------------------------------------------------
+##------------------
+#EXTINF:-1 tvg-id="Bra.Animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://distv.net/icones/animalplanet.png" group-title="41.Documentários",41.ANIMAL PLANET FHD²
+http://pdsrv.io:80/flach58/81828249/97168
+#EXTINF:-1 tvg-id="Bra.Animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://distv.net/icones/animalplanet.png" group-title="41.Documentários",41.ANIMAL PLANET HD²
+http://pdsrv.io:80/flach58/81828249/97169
+#EXTINF:-1 tvg-id="Bra.Animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://distv.net/icones/animalplanet.png" group-title="41.Documentários",41.ANIMAL PLANET SD²
+http://pdsrv.io:80/flach58/81828249/97170
+
+#EXTINF:-1 tvg-id="Bra.Discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="41.Documentários",41.DISCOVERY CHANNEL FHD²
+http://pdsrv.io:80/flach58/81828249/97172
+#EXTINF:-1 tvg-id="Bra.Discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="41.Documentários",41.DISCOVERY CHANNEL HD²
+http://pdsrv.io:80/flach58/81828249/97173
+#EXTINF:-1 tvg-id="Bra.Discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="41.Documentários",41.DISCOVERY CHANNEL SD²
+http://pdsrv.io:80/flach58/81828249/97174
+
+#EXTINF:-1 tvg-id="Bra.Discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://distv.net/icones/discoveryscience.png" group-title="41.Documentários",41.DISCOVERY SCIENCE FHD²
+http://pdsrv.io:80/flach58/81828249/97184
+#EXTINF:-1 tvg-id="Bra.Discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://distv.net/icones/discoveryscience.png" group-title="41.Documentários",41.DISCOVERY SCIENCE HD²
+http://pdsrv.io:80/flach58/81828249/97185
+#EXTINF:-1 tvg-id="Bra.Discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://distv.net/icones/discoveryscience.png" group-title="41.Documentários",41.DISCOVERY SCIENCE SD²
+http://pdsrv.io:80/flach58/81828249/97186
+
+#EXTINF:-1 tvg-id="Bra.Discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://distv.net/icones/discoverytheater.png" group-title="41.Documentários",41.DISCOVERY THEATER FHD²
+http://pdsrv.io:80/flach58/81828249/97187
+#EXTINF:-1 tvg-id="Bra.Discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://distv.net/icones/discoverytheater.png" group-title="41.Documentários",41.DISCOVERY THEATER HD²
+http://pdsrv.io:80/flach58/81828249/97188
+#EXTINF:-1 tvg-id="Bra.Discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://distv.net/icones/discoverytheater.png" group-title="41.Documentários",41.DISCOVERY THEATER SD²
+http://pdsrv.io:80/flach58/81828249/97189
+
+#EXTINF:-1 tvg-id="Bra.Discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://distv.net/icones/discoveryworld.png" group-title="41.Documentários",41.DISCOVERY WORLD FHD²
+http://pdsrv.io:80/flach58/81828249/97193
+#EXTINF:-1 tvg-id="Bra.Discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://distv.net/icones/discoveryworld.png" group-title="41.Documentários",41.DISCOVERY WORLD HD²
+http://pdsrv.io:80/flach58/81828249/97194
+#EXTINF:-1 tvg-id="Bra.Discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://distv.net/icones/discoveryworld.png" group-title="41.Documentários",41.DISCOVERY WORLD SD²
+http://pdsrv.io:80/flach58/81828249/97195
+
+#EXTINF:-1 tvg-id="Bra.History" tvg-name="HISTORY" tvg-logo="https://distv.net/icones/historychannel.png" group-title="41.Documentários",41.HISTORY FHD²
+http://pdsrv.io:80/flach58/81828249/97243
+#EXTINF:-1 tvg-id="Bra.History" tvg-name="HISTORY" tvg-logo="https://distv.net/icones/historychannel.png" group-title="41.Documentários",41.HISTORY HD²
+http://pdsrv.io:80/flach58/81828249/97247
+#EXTINF:-1 tvg-id="Bra.History" tvg-name="HISTORY" tvg-logo="https://distv.net/icones/historychannel.png" group-title="41.Documentários",41.HISTORY SD²
+http://pdsrv.io:80/flach58/81828249/4314
+
+#EXTINF:-1 tvg-id="Bra.History2" tvg-name="HISTORY 2" tvg-logo="https://distv.net/icones/h2.png" group-title="41.Documentários",41.HISTORY 2 FHD²
+http://pdsrv.io:80/flach58/81828249/97244
+#EXTINF:-1 tvg-id="Bra.History2" tvg-name="HISTORY 2" tvg-logo="https://distv.net/icones/h2.png" group-title="41.Documentários",41.HISTORY 2 HD²
+http://pdsrv.io:80/flach58/81828249/97245
+#EXTINF:-1 tvg-id="Bra.History2" tvg-name="HISTORY 2" tvg-logo="https://distv.net/icones/h2.png" group-title="41.Documentários",41.HISTORY 2 SD²
+http://pdsrv.io:80/flach58/81828249/97246
+
+#EXTINF:-1 tvg-id="Bra.Natgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://distv.net/icones/natgeo.png" group-title="41.Documentários",41.NATIONAL GEOGRAPHIC FHD²
+http://pdsrv.io:80/flach58/81828249/113087
+#EXTINF:-1 tvg-id="Bra.Natgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://distv.net/icones/natgeo.png" group-title="41.Documentários",41.NATIONAL GEOGRAPHIC HD²
+http://pdsrv.io:80/flach58/81828249/113084
+#EXTINF:-1 tvg-id="Bra.Natgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://distv.net/icones/natgeo.png" group-title="41.Documentários",41.NATIONAL GEOGRAPHIC SD²
+http://pdsrv.io:80/flach58/81828249/113082
+
+## ..... 
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ALIENÍGENAS DO PASSADO" tvg-logo="http://24horas.cc:80/images/891b8a72771b87c245b238c702eeabec.jpg" group-title="41.Documentários",41.ALIENÍGENAS DO PASSADOª
+http://acsc.cc:80/Mateus1379m/6112mTeS5713/140734.ts
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="COMO FUNCIONA O UNIVERSO" tvg-logo="http://24horas.cc:80/images/27ce82034594a0a2aa1a9f77446a834e.jpg" group-title="41.Documentários",41.COMO FUNCIONA O UNIVERSOª
+http://acsa.ws:80/Mateus1379m/6112mTeS5713/140736.ts
+
+#EXTINF:-1 tvg-id="Bra.Smithsonian" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://distv.net/icones/smithsonian.png" group-title="41.Documentários",41.SMITHSONIAN CHANNELº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-name="TV DOCUMENTÁRIOS" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="41.Documentários",41.TV DOCUMENTÁRIOSº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-name="TV MISTÉRIOS" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="41.Documentários",41.TV MISTÉRIOSº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="TV TURBO" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="41.Documentários",41.TV TURBOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN DOCS" tvg-logo="https://static.b2pteam.com/logos/documentario/urbandocs.png" group-title="41.Documentários",41.URBAN DOCSº
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+##---------------
+## 42.Variedades -----------------------------------------------------------------------------------
+##---------------
+#EXTINF:-1 tvg-id="Bra.Arte1" tvg-name="ARTE 1" tvg-logo="https://distv.net/icones/arte1.png" group-title="42.Variedades",42.ARTE 1 FHD²
+http://pdsrv.io:80/flach58/81828249/94106
+#EXTINF:-1 tvg-id="Bra.Arte1" tvg-name="ARTE 1" tvg-logo="https://distv.net/icones/arte1.png" group-title="42.Variedades",42.ARTE 1 HD²
+http://pdsrv.io:80/flach58/81828249/75488
+#EXTINF:-1 tvg-id="Bra.Arte1" tvg-name="ARTE 1" tvg-logo="https://distv.net/icones/arte1.png" group-title="42.Variedades",42.ARTE 1 SD²
+http://pdsrv.io:80/flach58/81828249/75487
+
+#EXTINF:-1 tvg-id="Bra.Comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://distv.net/icones/comedycentral.png" group-title="42.Variedades",42.COMEDY CENTRAL FHD²
+http://pdsrv.io:80/flach58/81828249/97507
+#EXTINF:-1 tvg-id="Bra.Comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://distv.net/icones/comedycentral.png" group-title="42.Variedades",42.COMEDY CENTRAL HD²
+http://pdsrv.io:80/flach58/81828249/97508
+#EXTINF:-1 tvg-id="Bra.Comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://distv.net/icones/comedycentral.png" group-title="42.Variedades",42.COMEDY CENTRAL SD²
+http://pdsrv.io:80/flach58/81828249/97509
+
+#EXTINF:-1 tvg-id="Bra.Curta!" tvg-name="CURTA!" tvg-logo="https://distv.net/icones/curta.png" group-title="42.Variedades",42.CURTA! FHD²
+http://pdsrv.io:80/flach58/81828249/94115
+#EXTINF:-1 tvg-id="Bra.Curta!" tvg-name="CURTA!" tvg-logo="https://distv.net/icones/curta.png" group-title="42.Variedades",42.CURTA! HD²
+http://pdsrv.io:80/flach58/81828249/94114
+#EXTINF:-1 tvg-id="Bra.Curta!" tvg-name="CURTA!" tvg-logo="https://distv.net/icones/curta.png" group-title="42.Variedades",42.CURTA! SD²
+http://pdsrv.io:80/flach58/81828249/10291
+
+#EXTINF:-1 tvg-id="Bra.Discoveryhh" tvg-name="DISCOVERY H&H" tvg-logo="https://distv.net/icones/discoveryhomehealth.png" group-title="42.Variedades",42.DISCOVERY H&H FHD²
+http://pdsrv.io:80/flach58/81828249/97175
+#EXTINF:-1 tvg-id="Bra.Discoveryhh" tvg-name="DISCOVERY H&H" tvg-logo="https://distv.net/icones/discoveryhomehealth.png" group-title="42.Variedades",42.DISCOVERY H&H HD²
+http://pdsrv.io:80/flach58/81828249/97176
+#EXTINF:-1 tvg-id="Bra.Discoveryhh" tvg-name="DISCOVERY H&H" tvg-logo="https://distv.net/icones/discoveryhomehealth.png" group-title="42.Variedades",42.DISCOVERY H&H SD²
+http://pdsrv.io:80/flach58/81828249/97177
+
+#EXTINF:-1 tvg-id="Bra.Discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://distv.net/icones/discoveryturbo.png" group-title="42.Variedades",42.DISCOVERY TURBO FHD²
+http://pdsrv.io:80/flach58/81828249/97190
+#EXTINF:-1 tvg-id="Bra.Discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://distv.net/icones/discoveryturbo.png" group-title="42.Variedades",42.DISCOVERY TURBO HD²
+http://pdsrv.io:80/flach58/81828249/97191
+#EXTINF:-1 tvg-id="Bra.Discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://distv.net/icones/discoveryturbo.png" group-title="42.Variedades",42.DISCOVERY TURBO SD²
+http://pdsrv.io:80/flach58/81828249/97192
+
+#EXTINF:-1 tvg-id="Bra.E!" tvg-name="E!" tvg-logo="https://distv.net/icones/e.png" group-title="42.Variedades",42.E! FHD²
+http://pdsrv.io:80/flach58/81828249/97637
+#EXTINF:-1 tvg-id="Bra.E!" tvg-name="E!" tvg-logo="https://distv.net/icones/e.png" group-title="42.Variedades",42.E! HD²
+http://pdsrv.io:80/flach58/81828249/97638
+#EXTINF:-1 tvg-id="Bra.E!" tvg-name="E!" tvg-logo="https://distv.net/icones/e.png" group-title="42.Variedades",42.E! SD²
+http://pdsrv.io:80/flach58/81828249/97639
+
+#EXTINF:-1 tvg-id="Bra.Gnt" tvg-name="GNT" tvg-logo="https://distv.net/icones/gnt.png" group-title="42.Variedades",42.GNT FHD²
+http://pdsrv.io:80/flach58/81828249/97550
+#EXTINF:-1 tvg-id="Bra.Gnt" tvg-name="GNT" tvg-logo="https://distv.net/icones/gnt.png" group-title="42.Variedades",42.GNT HD²
+http://pdsrv.io:80/flach58/81828249/97551
+#EXTINF:-1 tvg-id="Bra.Gnt" tvg-name="GNT" tvg-logo="https://distv.net/icones/gnt.png" group-title="42.Variedades",42.GNT SD²
+http://pdsrv.io:80/flach58/81828249/97552
+
+#EXTINF:-1 tvg-id="Bra.L!KEª" tvg-name="L!KE" tvg-logo="https://distv.net/icones/like.png" group-title="42.Variedades",42.L!KEª
+http://dmnet.distv.net:80/dianna/123456/176
+
+#EXTINF:-1 tvg-id="Bra.Modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://distv.net/icones/maisglobosat.png" group-title="42.Variedades",42.MODO VIAGEM FHD²
+http://pdsrv.io:80/flach58/81828249/97643
+#EXTINF:-1 tvg-id="Bra.Modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://distv.net/icones/maisglobosat.png" group-title="42.Variedades",42.MODO VIAGEM HD²
+http://pdsrv.io:80/flach58/81828249/97644
+#EXTINF:-1 tvg-id="Bra.Modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://distv.net/icones/maisglobosat.png" group-title="42.Variedades",42.MODO VIAGEM SD²
+http://pdsrv.io:80/flach58/81828249/97645
+
+#EXTINF:-1 tvg-id="Bra.Multishow" tvg-name="MULTISHOW" tvg-logo="https://distv.net/icones/multishow.png" group-title="42.Variedades",42.MULTISHOW FHD²
+http://pdsrv.io:80/flach58/81828249/97616
+#EXTINF:-1 tvg-id="Bra.Multishow" tvg-name="MULTISHOW" tvg-logo="https://distv.net/icones/multishow.png" group-title="42.Variedades",42.MULTISHOW HD²
+http://pdsrv.io:80/flach58/81828249/97617
+#EXTINF:-1 tvg-id="Bra.Multishow" tvg-name="MULTISHOW" tvg-logo="https://distv.net/icones/multishow.png" group-title="42.Variedades",42.MULTISHOW SD²
+http://pdsrv.io:80/flach58/81828249/97618
+
+#EXTINF:-1 tvg-id="Bra.Saborearte" tvg-name="SABOR&ARTE" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/06/21171016/saborearte.jpg" group-title="42.Variedades",42.SABOR&ARTE HD¹
+http://pdsrv.io:80/flach58/81828249/117977
+
+#EXTINF:-1 tvg-id="Bra.Tlc" tvg-name="TLC" tvg-logo="https://distv.net/icones/tlc.png" group-title="42.Variedades",42.TLC FHD²
+http://pdsrv.io:80/flach58/81828249/97619
+#EXTINF:-1 tvg-id="Bra.Tlc" tvg-name="TLC" tvg-logo="https://distv.net/icones/tlc.png" group-title="42.Variedades",42.TLC HD²
+http://pdsrv.io:80/flach58/81828249/97620
+#EXTINF:-1 tvg-id="Bra.Tlc" tvg-name="TLC" tvg-logo="https://distv.net/icones/tlc.png" group-title="42.Variedades",42.TLC SD²
+http://pdsrv.io:80/flach58/81828249/97621
+
+#EXTINF:-1 tvg-id="Bra.Travelboxbrazil" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://distv.net/icones/travelboxbrazil.png" group-title="42.Variedades",42.TRAVEL BOX BRAZIL FHD²
+http://pdsrv.io:80/flach58/81828249/75476
+#EXTINF:-1 tvg-id="Bra.Travelboxbrazil" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://distv.net/icones/travelboxbrazil.png" group-title="42.Variedades",42.TRAVEL BOX BRAZIL HD²
+http://pdsrv.io:80/flach58/81828249/75475
+#EXTINF:-1 tvg-id="Bra.Travelboxbrazil" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://distv.net/icones/travelboxbrazil.png" group-title="42.Variedades",42.TRAVEL BOX BRAZIL SD²
+http://pdsrv.io:80/flach58/81828249/97622
+
+#EXTINF:-1 tvg-id="Bra.Trutv" tvg-name="TRUTV" tvg-logo="https://distv.net/icones/trutv.png" group-title="42.Variedades",42.TRUTV FHD²
+http://pdsrv.io:80/flach58/81828249/97623
+#EXTINF:-1 tvg-id="Bra.Trutv" tvg-name="TRUTV" tvg-logo="https://distv.net/icones/trutv.png" group-title="42.Variedades",42.TRUTV HD²
+http://pdsrv.io:80/flach58/81828249/97624
+#EXTINF:-1 tvg-id="Bra.Trutv" tvg-name="TRUTV" tvg-logo="https://distv.net/icones/trutv.png" group-title="42.Variedades",42.TRUTV SD²
+http://pdsrv.io:80/flach58/81828249/97625
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN TV" tvg-logo="https://static.b2pteam.com/logos/variedades/urbantv.png" group-title="42.Variedades",42.URBAN TVº
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Viva" tvg-name="VIVA" tvg-logo="https://distv.net/icones/viva.png" group-title="42.Variedades",42.VIVA FHD²
+http://pdsrv.io:80/flach58/81828249/97295
+#EXTINF:-1 tvg-id="Bra.Viva" tvg-name="VIVA" tvg-logo="https://distv.net/icones/viva.png" group-title="42.Variedades",42.VIVA HD²
+http://pdsrv.io:80/flach58/81828249/97296
+#EXTINF:-1 tvg-id="Bra.Viva" tvg-name="VIVA" tvg-logo="https://distv.net/icones/viva.png" group-title="42.Variedades",42.VIVA SD²
+http://pdsrv.io:80/flach58/81828249/97297
+
+#EXTINF:-1 tvg-id="Bra.Woohoo" tvg-name="WOOHOO" tvg-logo="https://distv.net/icones/woohoo.png" group-title="42.Variedades",42.WOOHOO FHD²
+http://pdsrv.io:80/flach58/81828249/75490
+#EXTINF:-1 tvg-id="Bra.Woohoo" tvg-name="WOOHOO" tvg-logo="https://distv.net/icones/woohoo.png" group-title="42.Variedades",42.WOOHOO HD²
+http://pdsrv.io:80/flach58/81828249/75489
+#EXTINF:-1 tvg-id="Bra.Woohoo" tvg-name="WOOHOO" tvg-logo="https://distv.net/icones/woohoo.png" group-title="42.Variedades",42.WOOHOO SD²
+http://pdsrv.io:80/flach58/81828249/20453
+
+##------------
+## 43.Músicas --------------------------------------------------------------------------------------
+##------------
+#EXTINF:-1 tvg-id="Bra.Bis" tvg-name="BIS" tvg-logo="https://distv.net/icones/bis.png" group-title="43.Músicas",43.BIS¹
+http://pdsrv.io:80/flach58/81828249/97232
+
+#EXTINF:-1 tvg-id="Bra.Mtv" tvg-name="MTV" tvg-logo="https://distv.net/icones/mtv.png" group-title="43.Músicas",43.MTV¹
+http://pdsrv.io:80/flach58/81828249/94145
+
+#EXTINF:-1 tvg-id="Bra.Mtvlive" tvg-name="MTV LIVE" tvg-logo="https://distv.net/icones/mtvlive.png" group-title="43.Músicas",43.MTV LIVEª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36033
+
+#EXTINF:-1 tvg-id="Bra.Musicboxbrazil" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://distv.net/icones/musicboxbrazil.png" group-title="43.Músicas",43.MUSIC BOX BRAZILª
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36049
+
+#EXTINF:-1 tvg-id="Bra.Vh1" tvg-name="VH1" tvg-logo="http://static.bldn.vip/logos/musicais/vh1.png" group-title="43.Músicas",43.VH1¹
+http://pdsrv.io:80/flach58/81828249/110824
+
+##-------------
+## 51.Infantis -------------------------------------------------------------------------------------
+##-------------
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-name="BABYFIRST" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="51.Infantis",51.BABYFIRSTº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Babytv" tvg-name="BABY TV" tvg-logo="https://distv.net/icones/babytv.png" group-title="51.Infantis",51.BABY TV²
+http://pdsrv.io:80/flach58/81828249/100246
+
+#EXTINF:-1 tvg-id="Bra.Cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://distv.net/icones/cartoonnetwork.png" group-title="51.Infantis",51.CARTOON NETWORK²
+http://pdsrv.io:80/flach58/81828249/100258
+
+#EXTINF:-1 tvg-id="Bra.Cartoonito" tvg-name="CARTOONITO" tvg-logo="https://distv.net/icones/cartoonito.png" group-title="51.Infantis",51.CARTOONITO²
+http://pdsrv.io:80/flach58/81828249/100251
+
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-name="COCORICÓ" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="51.Infantis",51.COCORICÓº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://distv.net/icones/discoverykids.png" group-title="51.Infantis",51.DISCOVERY KIDS²
+http://pdsrv.io:80/flach58/81828249/100265
+
+#EXTINF:-1 tvg-id="Bra.Gloob" tvg-name="GLOOB" tvg-logo="https://distv.net/icones/gloob.png" group-title="51.Infantis",51.GLOOB²
+http://pdsrv.io:80/flach58/81828249/100273
+
+#EXTINF:-1 tvg-id="Bra.Gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://distv.net/icones/gloobinho.png" group-title="51.Infantis",51.GLOOBINHO²
+http://pdsrv.io:80/flach58/81828249/100279
+
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="NARUTO" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="51.Infantis",51.NARUTOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Nick" tvg-name="NICK" tvg-logo="https://distv.net/icones/nick.png" group-title="51.Infantis",51.NICK²
+http://pdsrv.io:80/flach58/81828249/100285
+
+#EXTINF:-1 tvg-id="Bra.Nickjr" tvg-name="NICK JR" tvg-logo="https://distv.net/icones/nickjr.png" group-title="51.Infantis",51.NICK JR²
+http://pdsrv.io:80/flach58/81828249/100292
+
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-name="TOKUSATO" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="51.Infantis",51.TOKUSATOº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Tooncast" tvg-name="TOONCAST" tvg-logo="https://distv.net/icones/tooncast.png" group-title="51.Infantis",51.TOONCAST²
+http://pdsrv.io:80/flach58/81828249/100226
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="TURMA DA MÔNICA" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="51.Infantis",51.TURMA DA MÔNICAº
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Bra.Tvratimbum" tvg-name="TV RÁ-TIM-BUM" tvg-logo="https://distv.net/icones/tvratimbum.png" group-title="51.Infantis",51.TV RÁ-TIM-BUM²
+http://pdsrv.io:80/flach58/81828249/100236
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="URBAN KIDS" tvg-logo="https://i.imgur.com/Zezw0K9.png" group-title="51.Infantis",51.URBAN KIDSº
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Zoomookids" tvg-name="ZOOMOO KIDS" tvg-logo="https://distv.net/icones/zoomoo.png" group-title="51.Infantis",51.ZOOMOO KIDS²
+http://pdsrv.io:80/flach58/81828249/100232
+
+##---------------
+## 61.Religiosos -----------------------------------------------------------------------------------
+##---------------
+#EXTINF:-1 tvg-id="Bra.Paieterno" tvg-name="PAI ETERNO" tvg-logo="https://distv.net/icones/tvpaieterno.png" group-title="61.Religiosos",61.PAI ETERNO¹
+http://pdsrv.io:80/flach58/81828249/45595
+
+#EXTINF:-1 tvg-id="Bra.Redegospel" tvg-name="REDE GOSPEL" tvg-logo="https://distv.net/icones/redegospel.png" group-title="61.Religiosos",61.REDE GOSPELª
+http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204019
+
+#EXTINF:-1 tvg-id="Bra.Redevida" tvg-name="REDE VIDA" tvg-logo="https://distv.net/icones/redevida.png" group-title="61.Religiosos",61.REDE VIDA¹
+http://pdsrv.io:80/flach58/81828249/45590
+
+#EXTINF:-1 tvg-id="Bra.Aparecida" tvg-name="TV APARECIDA" tvg-logo="https://distv.net/icones/tvaparecida.png" group-title="61.Religiosos",61.TV APARECIDA¹
+http://pdsrv.io:80/flach58/81828249/111114
+
+#EXTINF:-1 tvg-id="Bra.Boavontade" tvg-name="TV BOA VONTADE" tvg-logo="https://distv.net/icones/boavontadetv.png" group-title="61.Religiosos",61.TV BOA VONTADEª
+http://acsc.cc:80/Mateus1379m/6112mTeS5713/71811.ts
+
+#EXTINF:-1 tvg-id="Bra.Cancaonova" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://distv.net/icones/tvcancaonova.png" group-title="61.Religiosos",61.TV CANÇÃO NOVA¹
+http://pdsrv.io:80/flach58/81828249/61156
+
+#EXTINF:-1 tvg-id="Bra.Novotempo" tvg-name="TV NOVO TEMPO" tvg-logo="https://distv.net/icones/tvnovotempo.png" group-title="61.Religiosos",61.TV NOVO TEMPO¹
+http://pdsrv.io:80/flach58/81828249/61149
+
+##-----------
+## 91.Tv Web ---------------------------------------------------------------------------------------
+##-----------
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="BONS TEMPOS TV" tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="91.Tv Web",91.BONS TEMPOS TVª
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CANAL 23" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTz_Qx_zgqoUz8a2zH8yS2IuoVFbinZmsYr2rb1g=s900-c-k-c0x00ffffff-no-rj" group-title="91.Tv Web",91.CANAL 23ª
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CANAL 29" tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="91.Tv Web",91.CANAL 29ª
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CANAL BSTV" tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="91.Tv Web",91.CANAL BSTVª
+https://br5093.streamingdevideo.com.br:443/bstv/bstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CARAVANA PLAY" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14bb184c151e53c2210b218fff80f69e.webp" group-title="91.Tv Web",91.CARAVANA PLAYª
+https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CENTRAL TV" tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="91.Tv Web",91.CENTRAL TVª
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CINEPIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="91.Tv Web",91.CINEPIX TVª
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CLASSIQUE TV 1" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="91.Tv Web",91.CLASSIQUE TV 1ª
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CLASSIQUE TV 2" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="91.Tv Web",91.CLASSIQUE TV 2ª
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="CLASSIQUE WESTERN" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="91.Tv Web",91.CLASSIQUE WESTERNª
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="DEMAIS TV" tvg-logo="https://imgur.com/Yr8diVX.png" group-title="91.Tv Web",91.DEMAIS TVª
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ENTORNO SUL" tvg-logo="https://imgur.com/kiaOwxN.png" group-title="91.Tv Web",91.ENTORNO SULª
+https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="GLN TV" tvg-logo="https://i.imgur.com/1Hbk7bn.png" group-title="91.Tv Web",91.GLN TVª
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="HITS TV WEB" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3e22ba0cc070c700e71e3c51dcb810dc.webp" group-title="91.Tv Web",91.HITS TV WEBª
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="IMPERIAL TV" tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="91.Tv Web",91.IMPERIAL TVª
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="ISTV" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="91.Tv Web",91.ISTVª
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="MAIS TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/14/75/a7147515-857d-4c6b-9f9c-b2ec51a880b2/source/512x512bb.jpg" group-title="91.Tv Web",91.MAIS TVª
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="MANCHETE" tvg-logo="https://imgur.com/rqGWCEo.png" group-title="91.Tv Web",91.MANCHETEª
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="REDE CLONE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="91.Tv Web",91.REDE CLONE TVª
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="REDE TV MAIS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb7dGUE4j8pPo_va9Dd1r7gq9oL8VgZukJ5mEfd4s=s900-c-k-c0x00ffffff-no-rj" group-title="91.Tv Web",91.REDE TV MAISª
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="REDE TV SUL" tvg-logo="https://imgur.com/vagiDGp.png" group-title="91.Tv Web",91.REDE TV SULª
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="REDE UTV BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="91.Tv Web",91.REDE UTV BRASILª
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TELA VIVA TV" tvg-logo="https://i.imgur.com/n232OSq.png" group-title="91.Tv Web",91.TELA VIVA TVª
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV ÁGUA BOA" tvg-logo="https://imgur.com/q35K1Nj.png" group-title="91.Tv Web",91.TV ÁGUA BOAª
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV ARACATI" tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="91.Tv Web",91.TV ARACATIª
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV BIRIGUI" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="91.Tv Web",91.TV BIRIGUIª
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV CARIOCA" tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="91.Tv Web",91.TV CARIOCAª
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV CAPITAL TERESINA" tvg-logo="https://i.imgur.com/JENKIXs.png" group-title="91.Tv Web",91.TV CAPITAL TERESINAª
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV CHANNEL" tvg-logo="https://imgur.com/GCTplnu.png" group-title="91.Tv Web",91.TV CHANNELª
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV CHANNEL NETWORK" tvg-logo="https://i.imgur.com/JmffSgH.png" group-title="91.Tv Web",91.TV CHANNEL NETWORKª
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV CLÁSSICOS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjdj2LPvW1sj2HqtS83aalmPXUSvI3bCA62LsfeUn8B7ZYKSxcpkIGhry0dKeg6aIHGKN6ehIHUBh8ua_2BZrSgVI5pqk5gCoAvpdVJUPap0Q_RAzQf-26GasTJGJ9D45kXb2ktJgPWyOQMPzX33Mn2KdlJB6Q8-4nq_i7rzFUTMCPRVSKhB_t55ZDf=s200" group-title="91.Tv Web",91.TV CLÁSSICOSª
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV GALLO" tvg-logo="https://i.imgur.com/kqxuEZ3.png" group-title="91.Tv Web",91.TV GALLOª
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV JORNAL DO NORDESTE" tvg-logo="https://i.imgur.com/f8oYH0K.png" group-title="91.Tv Web",91.TV JORNAL DO NORDESTEª
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV J.SID" tvg-logo="https://i.imgur.com/Cn4mjKN.png" group-title="91.Tv Web",91.TV J.SIDª
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV LAGOA DANTAS" tvg-logo="https://assets.iptv2022.com/uploads/channel/14281/thumb_TV_LAGOA_DANTAS.png" group-title="91.Tv Web",91.TV LAGOA DANTASª
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV MAIS BRASIL" tvg-logo="https://i.imgur.com/oRbARBg.png" group-title="91.Tv Web",91.TV MAIS BRASILª
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV MAX" tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="91.Tv Web",91.TV MAXª
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV MON" tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="91.Tv Web",91.TV MONª
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV NATAL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvvnatal.jpg" group-title="91.Tv Web",91.TV NATALª
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV NOVA PLAY" tvg-logo="https://i.imgur.com/SBjOGyN.png" group-title="91.Tv Web",91.TV NOVA PLAYª
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV PANTANAL" tvg-logo="https://i.imgur.com/4NF2Jho.png" group-title="91.Tv Web",91.TV PANTANALª
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV QUE DEMAIS" tvg-logo="https://imgur.com/RFRhwkC.png" group-title="91.Tv Web",91.TV QUE DEMAISª
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV RIO MADEIRA" tvg-logo="https://www.tvriomadeira.com/admin/assets/img/users/4057-2021-11-09.png" group-title="91.Tv Web",91.TV RIO MADEIRAª
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV SERRA VERDE" tvg-logo="https://imgur.com/493q2l2.png" group-title="91.Tv Web",91.TV SERRA VERDEª
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="TV XTREME" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/xtreme.png" group-title="91.Tv Web",91.TV XTREMEª
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="VIA MORENA" tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="91.Tv Web",91.VIA MORENAª
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="VILA TV" tvg-logo="https://imgur.com/jrUqeSV.png" group-title="91.Tv Web",91.VILA TVª
+https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bra.Semprograma" tvg-name="VINTAGE TV" tvg-logo="https://i.imgur.com/zGC0hGs.png" group-title="91.Tv Web",91.VINTAGE TVª
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+## ...................................................................................................................................................................... 
